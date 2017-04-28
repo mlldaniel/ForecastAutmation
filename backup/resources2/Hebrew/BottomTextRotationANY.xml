@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paragraph>
+	<sentences>
+		<sentence><![CDATA[ה-###KEYWORD1### מתאריך ###FORECASTDATE### הניבו תשואות מרשימות בטווח זמן של ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[תחזית ###PACKAGENAME2### מתאריך  ###FORECASTDATE###  הניבה תשואות גבוהות במיוחד בטווח של  ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[###KEYWORD1###: אלגוריתם המניות סימן כ-###CVSTABLE1-COUNTTOTALROW### מניות כמומלצות לקנייה /מכירה בטווח של ###TIMEFRAME###. מרבית המניות המומלצות הנ"ל היכו את המדדים באופן משמעותי.]]></sentence>
+		<sentence><![CDATA[###KEYWORD1###: בכל יום האלגוריתם בוחר את המניות המומלצות ביותר מתוך 3000 הנכסים אחריהם הוא עוקב, בתחזיות האלגוריתמיות מתאריך ###FORECASTDATE### לטווח של ###TIMEFRAME### בלטה חבילת ###PACKAGENAME2###.]]></sentence>
+		<sentence><![CDATA[###KEYWORD1###: בכל יום האלגוריתם בוחר את המניות המומלצות ביותר מתוך 3000 הנכסים אחריהם הוא עוקב, בתחזיות האלגוריתמיות מתאריך ###FORECASTDATE###  לטווח של ###TIMEFRAME### בלטה חבילת ###PACKAGENAME2###.]]></sentence>
+		<sentence><![CDATA[בכל יום אלגוריתם המניות מסמן את המניות המומלצות ביותר מתוך 3000 הנכסים אחריהם הוא עוקב,ה -###KEYWORD1###  מתאריך ###FORECASTDATE### הניבו תשואות מרשימות בטווח זמן של ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[###KEYWORD1### : מבין התחזיות שהופקו ע"י האלגוריתם לטווח של ###TIMEFRAME###, בלטה חבילת ###PACKAGENAME2###.]]></sentence>
+        <sentence packageName1="Options Forecast"><![CDATA[###KEYWORD1### : מבין התחזיות שהופקו ע"י האלגוריתם לטווח של ###TIMEFRAME###, בלטה חבילת ###PACKAGENAME2###.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[המנייה המומלצת הבולטת בתחזית זו היא מניית ###CVSTABLE1-RANK1-SYM### עם תשואה מרשימה של ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[בין המניות המובילות ניתן היה למצוא את מניית ###CVSTABLE1-RANK1-SYM### אשר הניבה תשואה של ###CVSTABLE1-RANK1-RET###% ב- ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[המנייה המומלצת הבולטת בתחזית זו היא מניית ###CVSTABLE1-RANK1-SYM### עם תשואה מרשימה של ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[המניה המומלצת בחבילה זו ###CVSTABLE1-RANK1-SYM### הניבה תשואה מרשימה של ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[המנייה המומלצת הבולטת בתחזית זו היא מניית ###CVSTABLE1-RANK1-SYM### עם תשואה מרשימה של ###CVSTABLE1-RANK1-RET###%]]></sentence>
+        <sentence packageName1="Options Forecast"><![CDATA[ אופציה המומלצת הבולטת בתחזית זו היא מניית ###CVSTABLE1-RANK1-SYM### עם תשואה מרשימה של ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[מניות מומלצות ובולטות נוספות: מניית ###CVSTABLE1-RANK2-SYM### עם תשואה של ###CVSTABLE1-RANK2-RET###% וכן מניית ###CVSTABLE1-RANK3-SYM### עם תשואה של ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[מניות מומלצות ובולטות נוספות: מניית ###CVSTABLE1-RANK2-SYM### עם תשואה של ###CVSTABLE1-RANK2-RET###% וכן מניית ###CVSTABLE1-RANK3-SYM### עם תשואה של ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[מניות בולטות נוספות: מניית  ###CVSTABLE1-RANK2-SYM### אשר הניבה תשואה של כ-###CVSTABLE1-RANK2-RET###% , מניית ###CVSTABLE1-RANK3-SYM### שהניבה תשואה של כ- ###CVSTABLE1-RANK3-RET###% וכל זה בתקופה של ###TIMEFRAME### בלבד.]]></sentence>
+		<sentence><![CDATA[מניות מומלצות ובולטות נוספות: מניית ###CVSTABLE1-RANK2-SYM### עם תשואה של ###CVSTABLE1-RANK2-RET###% וכן מניית ###CVSTABLE1-RANK3-SYM### עם תשואה של ###CVSTABLE1-RANK3-RET###% .]]></sentence>
+        <sentence packageName1="Options Forecast"><![CDATA[אופציות מומלצות ובולטות נוספות מניית ###CVSTABLE1-RANK2-SYM### עם תשו של ###CVSTABLE1-RANK2-RET###% וכן מניית ###CVSTABLE1-RANK3-SYM### עם תשואה של ###CVSTABLE1-RANK3-RET###% .]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[התשואה הכוללת של התחזית הייתה ###CVSTABLE1-IKFAVG###% לעומת תשואה של ###CVSTABLE1-S&P500###% -של מדד ה S&P500.]]></sentence>
+		<sentence><![CDATA[התשואה הממוצעת שהתקבלה ע"י התחזית היתה ###CVSTABLE1-IKFAVG###% -באותו חלון זמן, מדד ה S&P500 הניבה תשואות ממוצעות נמוכות יותר של ###CVSTABLE1-S&P500###%.]]></sentence>
+		<sentence><![CDATA[חבילה זאת הניבה תשואה ממוצעה הגבוהה משמעותית מביצועי מדד S&P 500 באותה תקופה. התשואה הכוללת של התחזית הייתה ###CVSTABLE1-IKFAVG###% לעומת תשואה של ###CVSTABLE1-S&P500###% -של מדד ה S&P500]]></sentence>
+		<sentence><![CDATA[התשואה הכוללת של התחזית הייתה ###CVSTABLE1-IKFAVG###% לעומת תשואה של ###CVSTABLE1-S&P500###% -של מדד ה S&P500.]]></sentence>
+		<sentence packageName1="Options Forecast"><![CDATA[התשואה הכוללת של התחזית הייתה ###CVSTABLE1-IKFAVG###% לעומת תשואה של ###CVSTABLE1-S&P500###% -של מדד ה S&P500.]]></sentence>
+	</sentences>
+	<!-- התחזית הופקה ע"י האלגוריתם בתאריך FORECAST DATE -->
+</paragraph>

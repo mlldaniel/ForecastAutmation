@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<directory>
+		<defaultDirectory><![CDATA[C:\Users\Daniel\OneDrive\I Know First\forecast automation\csvtables]]></defaultDirectory>
+	</directory>
+	<generalForm>
+		<timeFrame>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[3 Days]]></item>
+				<item><![CDATA[7 Days]]></item>
+				<item><![CDATA[14 Days]]></item>
+				<item><![CDATA[1 Month]]></item>
+				<item><![CDATA[3 Months]]></item>
+				<item><![CDATA[1 Year]]></item>
+			</items>
+		</timeFrame>
+		<positionType>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[Long]]></item>
+				<item><![CDATA[Short]]></item>
+				<item><![CDATA[Long & Short]]></item>
+				<item><![CDATA[Commodities]]></item>
+				<item><![CDATA[Currencies]]></item>
+				<item><![CDATA[XAU]]></item>
+			</items>
+		</positionType>
+		<keywordSetting>
+			<keyword1DateLimit>7</keyword1DateLimit>
+			<keyword2DateLimit>7</keyword2DateLimit>
+		</keywordSetting>
+	</generalForm>
+
+	
+	<Language name="English">
+		<linkFormat><![CDATA[fr-###POSTTITLE###]]></linkFormat>
+		<dateFormat><![CDATA[MM/dd/yyyy]]></dateFormat>
+		<rssheader>
+			<title>Stock Forecast Based On a Predictive Algorithm | I Know First  |</title>
+			<link>http://iknowfirst.com/</link>
+			<description>Stock Forecast Based On a Predictive Algorithm. Contact Us: contact@iknowfirst.com</description>
+			<language>en-US</language>
+			<wp:wxr_version>1.2</wp:wxr_version>
+			<wp:base_site_url>http://iknowfirst.com/</wp:base_site_url>
+			<wp:base_blog_url>http://iknowfirst.com/</wp:base_blog_url>
+		</rssheader>
+	</Language>
+
+	<Language name="Hebrew">
+		<linkFormat><![CDATA[fr-###PACKAGENAME###-###FORECASTDATE-MONTH###-###FORECASTDATE-DAY###-###FORECASTDATE-YEAR###-###CVSTABLE1-RANK1-RET###]]></linkFormat>
+		<dateFormat><![CDATA[dd/MM/yyyy]]></dateFormat>
+		<!-- <domain><![CDATA[http://iknowfirst.com]]></domain> -->
+		<rssheader>
+			<title>I Know First מניות מומלצות על בסיס אלגוריתם תחזיות מתקדם</title>
+			<link>https://iknowfirst.co.il/</link>
+			<description>מניות מומלצות על בסיס אלגוריתם תחזיות מתקדם. ליצירת קשר&#62;       contact@iknowfirst.com</description>
+			<pubDate>Thu, 03 Nov 2016 14:14:40 +0000</pubDate>
+			<language>wp-dev-he</language>
+			<wp:wxr_version>1.2</wp:wxr_version>
+			<wp:base_site_url>https://iknowfirst.co.il/</wp:base_site_url>
+			<wp:base_blog_url>https://iknowfirst.co.il/</wp:base_blog_url>
+		</rssheader>
+		
+	</Language>
+
+
+
+
+</settings>
+

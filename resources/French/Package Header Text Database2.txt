@@ -1,0 +1,940 @@
+﻿###START###
+
+Actions a Haut Volume
+Le Package des Actions à Haut Volume est conçu pour les investisseurs et analystes a la recherche d'actions actuellement tradées entre 5 et 30 dollars, et dont le volume moyen de trading est supérieur à 100 million d'actions par jour. Il inclut le ###TOPN2### des actions à signaux haussiers et baissiers et indique les meilleures actions à acheter et à vendre:
+<ul>
+ 	<li>le Top ###TOPN### des Actions à Haut Volume à long-terme</li>
+ 	<li>le Top ###TOPN### des Actions à Haut Volume à court-terme</li>
+</ul>
+<img class="alignright wp-image-37906" src="http://iknowfirst.com/wp-content/uploads/2017/01/High-Volume-Stocks.jpg" alt="" width="189" height="62" />
+<strong>Package Name:</strong> Actions à Haut Volume
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length</strong>:
+<strong>I Know First Average</strong>:
+
+
+Matieres Premieres
+<p style="color: #0a0a0a;">Prix Des Matieres Premieres : Cette prevision fait partie de notre offre sur les Matieres Premieres. La prediction complete inclut ###TOPN2### matieres premieres pour des positions longues et des positions courtes.</p>
+<ul>
+	<li>les ###TOPN### meilleurs matieres premieres pour des positions longues</li>
+	<li>les ###TOPN### meilleurs matieres premieres pour des positions courtes</li>
+</ul>
+<strong>Package Name:</strong> Matieres Premieres
+<strong>Recommended Positions:</strong>
+<strong>Forecast Length</strong>:
+<strong>I Know First Average</strong>:
+
+
+Semaine 52 Haut Prix 
+Le Package Semaine 52 Haut Prix est concu pour les investisseurs et analystes à la recherche de predictions pour des actions actuellement à leur 52eme semaine de niveau de prix le plus haut. Il inclut ###TOPN2### des actions à signaux haussiers et baissiers et indique les meilleures actions à acheter et à vendre:
+<ul>
+ 	<li>le ###TOPN### des actions Semaine 52 Haut Prix sur le long-terme</li>
+ 	<li>le ###TOPN### des actions Semaine 52 Haut Prix sur le court-terme</li>
+</ul>
+<img class="alignright wp-image-37906" src="http://iknowfirst.com/wp-content/uploads/2016/05/52-week-high-icon.jpg" alt="Best Share To Buy" width="189" height="62" />
+<strong>Package Name:</strong> Semaine 52 Haut Prix
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length</strong>: 
+<strong>I Know First Average</strong>: 
+
+
+Semaine 52 Bas Prix
+Le Package Semaine 52 Bas Prix est concu pour les investisseurs et analystes à la recherche de predictions pour des actions actuellement à leur 52eme semaine de niveau de prix le plus bas, offrant les meilleures opportunites base sur un systeme dalgo-trading. Il inclut ###TOPN2### des actions à signaux haussiers et baissiers et indique les meilleures actions dans lesquelles invest:
+<ul>
+ 	<li>le ###TOPN### des actions Semaine 52 Bas Prix sur le long-terme</li>
+ 	<li>le ###TOPN### des actions Semaine 52 Bas Prix sur le court-terme</li>
+</ul>
+<img class="alignright wp-image-36921" src="http://iknowfirst.com/wp-content/uploads/2016/05/52-Week-Low-Stocks.png" alt="52 Week Low Stocks" width="165" height="54" />
+<strong>Package Name:</strong> Semaine 52 Bas Prix
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length</strong>: 
+<strong>I Know First Average</strong>: 
+
+
+Prevision valeurs agressives
+Cette prevision fait partie du Package Placement à Risques, une des solutions de recherches d’actions proposees par I Know First. Nous identifions les piques des actions dites “agressives” en filtrant quotidiennement notre algorithme à la recherche des actions à haute volatilite representant les meilleures opportunites, donc plus risquees. Le package complet Placement à Risques inclut des previsions quotidiennes pour le total des dividendes de 40 actions dans nos quatre categories principales:
+<ul>
+ 	<li>Top ###TOPN### des actions à forte volatilite à long-terme</li>
+ 	<li>Top ###TOPN### des actions à forte volatilite à court-terme</li>
+ 	<li>Top ###TOPN### des actions à faible volatilite a long-terme</li>
+ 	<li>Top ###TOPN### des actions a faible volatilite a court-terme</li>
+</ul>
+<img class="wp-image-36402 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/11/Risk-Conscious-stocks-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name:</strong> Placement a risques – Previsions d’actions a haute volatilite
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision valeurs automobiles
+Les previsions concernant les valeurs automobiles sont concues pour les investisseurs et analystes a la recherche de predictions des actions les plus performantes dans l industrie automobile (cf le Package des Valeurs Automobiles). Il inclut le ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures valeurs automobiles a trader:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Automobiles sur le long-terme</li>
+ 	<li>Top ###TOPN### des Valeurs Automobiles sur le court-terme</li>
+</ul>
+<strong>Package Name: </strong>Valeurs Automobiles
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision Valeurs Bancaires
+Ces previsions sont concues pour les investisseurs et analystes a la recherche de predictions concernant les Valeurs Bancaires (cf le Package des Valeurs Bancaires). Il inclut le ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures valeurs bancaires a trader:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Bancaires a long-terme</li>
+ 	<li>Top ###TOPN### des Valeurs Bancaires a court-terme</li>
+</ul>
+<img class="alignright wp-image-37648" src="http://iknowfirst.com/wp-content/uploads/2016/05/Bank-Stock-Forecast.png" alt="Bank Stock Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Valeurs Bancaires
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+
+
+Prevision Industries Generalistes
+Les previsions concernant les Industries Generalistes sont concues pour les investisseurs et analystes a la recherche de predictions quotidiennes des actions les plus performantes (cf Package des Actions d Industrie Generalistes). Ces previsions incluent ###TOPN2### actions a signaux haussiers et baissiers et indiquent, grâce a l intelligence artificielle, les meilleures actions d industries generalistes a acheter:
+
+<ul>
+ 	<li>Top ###TOPN### des Actions Industries Generalistes a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Industries Generalistes a court-terme</li>
+</ul>
+<img class="alignright wp-image-36397" src="http://iknowfirst.com/wp-content/uploads/2016/05/basic-industry-300x98.png" alt="Stock Market Prediction Algorithm" width="165" height="54" />
+<strong>Package Name:</strong> Actions Industrie Generaliste
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Previsions Actions Biotech 
+Le Package des Actions BioTech est concu pour les investisseurs et les analystes a la recherche des predictions concernant les meilleures actions du l Industrie de la Biotechnologie a acheter. Cela inclue ###TOPN2### des actions a signaux haussiers et baissiers et indiquent les meilleures actions de biotech a trader:
+
+<ul>
+ 	<li>Top ###TOPN### des Actions BioTech a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Biotech a court-terme</li>
+</ul>
+<img class="alignright wp-image-36839" src="http://iknowfirst.com/wp-content/uploads/2016/05/biotech.png" alt="BioTech Stocks" width="162" height="53" />
+<strong>Package Name:</strong> Actions BioTech
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Valeurs Bresiliennes
+Les previsions concernant les Valeurs Bresiliennes ont ete generees par l Algorithme d I Know First Algorithm grâce a une analyste des donnees du marche et fait partie du Package Par Pays. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### d actions a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Bresiliennes a long-terme </li>
+ 	<li>Top ###TOPN### des Valeurs Bresiliennes a court-terme </li>
+</ul>
+<img class="alignright wp-image-36928" src="http://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast-.png" sizes="(max-width: 165px) 100vw, 165px" srcset="http://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast-.png 409x, http://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast--300x98.png 300x" width="165" height="54" />
+<strong>Package Name: </strong>Par Pays - Valeurs Bresiliennes
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length: </strong>
+<strong>I Know First Average</strong>: 
+
+
+Previsions Valeurs Canadiennes 
+Ces previsions des Valeurs Canadiennes font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### des meilleures valeurs canadiennes a signaux haussiers et baissiers:
+
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Canadiennes a long-terme </li>
+ 	<li>Top ###TOPN### des Valeurs Canadiennes a court-terme </li>
+</ul>
+
+<img class="alignright wp-image-36398" src="http://iknowfirst.com/wp-content/uploads/2016/05/canadian-stocks-300x98.png" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Par Pays - Valeurs Canadiennes
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Valeurs Chimiques
+Ces previsions concernant les valeurs chimiques sont concues pour les investisseurs et analystes a la recherche des meilleures valeurs chimiques a acheter dans toutes l Industrie Chimique (cf Package des Valeurs Chimiques). Cela inclut ###TOPN2### actions a signaux haussiers et baissiers et indique les meilleures valeurs chimiques a acheter:
+
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Chimiques a long-terme</li>
+ 	<li>Top ###TOPN### des Valeurs Chimiques a court-terme</li>
+</ul>
+<img class="alignright wp-image-39238" src="http://iknowfirst.com/wp-content/uploads/2016/06/chemical-300x98.jpg" alt="Chemical Stock Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Valeurs Chimiques
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision des Valeurs Chinoises
+Valeurs Chinoises les plus performantes: Cette prevision fait partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des previsions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+	<li>Top ###TOPN### des Valeurs Chinoises a long-terme </li>
+	<li>Top ###TOPN### des Valeurs Chinoises a court-terme </li>
+</ul>
+<strong>Package Name: </strong>Par Pays - Valeurs Chinoises
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Industrie informatique
+Le Package de l industrie informatique est concu pour les investisseurs et analystes a la recherche de predictions des actions les plus performantes de l Industrie Informatique. Cela inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures actions de l industrie informatique a acheter:
+
+<ul>
+ 	<li>Top ###TOPN### des Actions de l Industrie Informatique a long-terme</li>
+ 	<li>Top ###TOPN### des Actions de l Industrie Informatique a court-terme</li>
+</ul>
+
+<img class=" wp-image-37897 alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Computer-Industry-1.png" alt="Computer Industry" width="168" height="55" />
+<strong>Package Name:</strong> Actions Industrie Informatique
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length</strong>: 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Actions Conservatrices 
+Cette prevision relative aux Actions Conservatrices font partie du Package Placement a Risques, une des solutions d investissement quantitatif d I Know First. Nous determinons les meilleures actions defensives en filtrant quotidiennement notre base de donnees avec les actions les moins volatiles qui representent le moins de risques. Le Package "Placement a Risques" complet inclut des previsions quotidiennes pour un total de 40 actions divisees en quatre categories principales:
+<ul>
+ 	<li>Top ###TOPN### des Actions Conservatrices a long-terme </li>
+ 	<li>Top ###TOPN### des Actions Conservatrices a court-terme </li>
+ 	<li>Top ###TOPN### des Actions Agressives a long-terme </li>
+ 	<li>Top ###TOPN### des Actions Agressives a court-terme </li>
+</ul>
+
+<img class="alignright wp-image-36402" src="http://iknowfirst.com/wp-content/uploads/2016/05/Risk-Conscious-stocks.png" alt="Risk Conscious stocks" width="165" height="54" />
+<strong>Package Name:</strong> Placement a Risques - Prevision Actions Conservatrices
+<strong>Recommended Positions: </strong>
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Valeurs de Consommateur
+Le Package Valeurs de Consommateur est concu pour les investisseurs et les analystes a la recherche de predictions des actions les plus performantes pour toute l Industrie de la Consommation. Cela inclut ###TOPN2### des actions a signaux haussiers et baissiers.
+<ul>
+	<li>Top ###TOPN### des Valeurs de Consommateurs a long-terme</li>
+	<li>Top ###TOPN### des Valeurs de Consommateurs a court-terme</li>
+</ul>
+<strong>Package Name:</strong> Valeurs de Consommateurs
+<strong>Recommended Positions: </strong>
+<strong>Forecast Length</strong>: 
+<strong>I Know First Average:</strong> 
+
+Devises
+Le graphe a gauche montre les previsions concernant les devises depuis ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR###, qui incluent des recommandations a court et a long-terme. Les boîtes vertes designent des signaux d achat tandis que les boîtes rouges sont des signaux de vente. Le côte droit montre le retour des paires de devises suggerees depuis ###FORECASTDATE-MONTH### ###FORECASTDATE-DAY###, ###FORECASTDATE-YEAR### to ###TARGETDATE-MONTH### ###TARGETDATE-DAY###, ###TARGETDATE-YEAR###.
+
+<img class="size-full wp-image-36334 alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/curency-165.jpg" alt="curency 165" width="165" height="54" />
+<strong>Package Name:</strong> Devises
+<strong>Forecast Length:</strong> 
+<strong>I Know First Hit Ratio:</strong> 
+
+
+Dividendes
+Cette prevision fait partie du Package Dividendes, une des solutions d investissement quantitatif d I Know First. Nous identifions les meilleures actions porteuses de dividendes en filtrant quotidiennement notre base de donnees a l aide de notre algorithme avance. Le Package complet des Dividendes inclut une prevision quotidienne pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Dividendes a long-terme </li>
+ 	<li>Top ###TOPN### des Dividendes a court-terme </li>
+</ul>
+
+<img class="alignright wp-image-36399" src="http://iknowfirst.com/wp-content/uploads/2016/05/dividend-stocks-.png" alt="dividend stocks" width="165" height="54" />
+<strong>Package Name: </strong>Dividendes
+<strong>Recommended Positions: </strong>
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+Prevision Action Energetiques
+Le Package des Actions Energetiques est base sur l algorithme d I Know First et est concu pour les investisseurs et analystes a la recherche de recommandations concernant les actions les plus performantes de l integralite de l Industrie Energetique. Cela inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures actions energetiques a acheter et a vendre:
+<ul>
+ 	<li>Top ###TOPN### des Actions Energetiques a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Energetiques a court-terme</li>
+</ul>
+
+<img class="wp-image-41851 size-full alignright" src="http://iknowfirst.com/wp-content/uploads/2016/07/Energy_small.jpg" width="205" height="67" />
+<strong>Package Name:</strong> Actions Energetiques
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+
+
+Prevision Index Tracker
+Cette prevision fait partie du Package Index Tracker, une des solutions d investissement quantitatif d I Know First. Nous identifions les meilleurs Index Tracker en filtrant quotidiennement notre base de donnees avec l aide de notre algorithme avance. Le Package complet Index Tracker inclut des previsions quotidiennes pour un total de ###TOPN2### avec des signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Index Tracker a long-terme</li>
+ 	<li>Top ###TOPN### des Index Tracker a court-terme</li>
+</ul>
+<strong>Package Name:</strong> Prevision Index Tracker
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision Valeurs Europeennes 
+Cette prevision relative aux Valeurs Europeennes fait partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### des meilleures valeurs Europeennes base sur l intelligence artificielle a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Europeennes a long-terme </li>
+ 	<li>Top ###TOPN### des Valeurs Europeennes a court-terme </li>
+</ul>
+<img class="alignright wp-image-37481" src="http://iknowfirst.com/wp-content/uploads/2016/05/European-Stock-Forecast-1.png" alt="European Stock Forecast" width="165" height="54" />
+<strong>Package Name: </strong>Par Region – Valeurs Europeennes 
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Previsions Valeurs Francaises
+Meilleures Valeurs Francaises: Ces previsions concernant les Valeurs Francaises font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+<ul>
+	<li>Top ###TOPN### des Valeurs Francaises a long-terme </li>
+	<li>Top ###TOPN### des Valeurs Francaises a court-terme </li>
+</ul>
+
+<strong>Package Name: </strong>Par Pays - Valeurs Francaises
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong>
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a Bas P/E Ratios
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a Bas P/E Ratios
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a Haut P/E Ratio
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a Haut P/E Ratio
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a faible PEG 
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a faible PEG 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a haut PEG
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a haut PEG
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a faible price-to-book ratio 
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a faible price-to-book ratio
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a fort price-to-book ratio 
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a fort price-to-book ratio
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a faible price-to-sales ratio 
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a faible price-to-sales ratio 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a fort price-to-sales ratio
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a fort price-to-sales ratio
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a Acheter a Decouvert
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a Acheter a Decouvert
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+
+Elementaire
+Le Package Elementaire inclut des previsions algorithmiques concernant des actions filtrees par des criteres elementaires. Notre algorithme vous aide a trouver les meilleures opportunites a court et long-terme en filtrant selon chaque critere elementaire. Les actions sont selectionnees selon quatre categories d evaluations basiques:
+<ul>
+ 	<li>P/E (price to earnings ratio)</li>
+ 	<li>PEG (price/earnings to growth ratio)</li>
+ 	<li>price-to-book ratio</li>
+ 	<li>price-to-sales ratio</li>
+	<li>short ratio</li>
+</ul>
+
+<img class="alignright wp-image-37320" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals.jpg" alt="fundamentals" width="165" height="54" />
+<strong>Package Name:</strong> Elementaire - Actions a Vendre a decouvert
+<strong>Recommended Positions:</strong> 
+<strong>Subpackage:</strong> Actions a Vendre a decouvert
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+
+
+Prevision Valeurs Allemandes
+Meilleures Valeurs Allemandes: Ces previsions font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+	<li>Top ###TOPN### des Valeurs Allemandes a long-terme </li>
+	<li>Top ###TOPN### des Valeurs Allemandes a court-terme </li>
+</ul>
+<strong>Package Name: </strong>Par Pays - Valeurs Allemandes
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average: </strong>
+
+Prevision Valeurs Japonaises 
+Meilleures Valeurs Japonaises: Ces previsions font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les predictions completes incluent des previsions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+	<li>Top ###TOPN### des Valeurs Japonaises a long-terme </li>
+	<li>Top ###TOPN### des Valeurs Japonaises a court-terme </li>
+</ul>
+<strong>Package Name: </strong>Par Pays - Valeurs Japonaises
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average: </strong>
+
+Previsions Valeurs Russes
+Les meilleures valeurs russes: Ces previsions concernent le Package Par Pays, un des outils de trading algorithmique d I Know First. La prevision complete inclut des predictions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+	<li>Top ###TOPN### des Valeurs Russes a long-terme </li>
+	<li>Top ###TOPN### des Valeurs Russes a court-terme </li>
+</ul>
+<strong>Package Name: </strong>Par Pays - Valeur Russe
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average: </strong>
+
+
+Sante 
+Le Package des Actions Sante est concu pour les investisseurs et les analystes a la recherche de predictions des meilleures actions dans le secteur de la Sante. Il inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures actions Sante a acheter et a vendre:
+<ul>
+ 	<li>Top ###TOPN### des Actions Sante sur le long-terme</li>
+ 	<li>Top ###TOPN### des Actions Sante sur le court-terme</li>
+</ul>
+
+<img class="alignright wp-image-38329" src="http://iknowfirst.com/wp-content/uploads/2016/06/Healthcare.png" alt="Healthcare" width="165" height="54" />
+<strong>Package Name:</strong> Actions Sante
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Action de Fonds Speculatif
+Ce Package des Actions de Fonds Speculatif est concu pour les investisseurs et analystes a la recherche de predictions des actions les plus performantes selon l algorithme d I Know First. Cela inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures actions a long et court-terme base sur des strategies de trading permises par l Intelligence Artificielle:
+<ul>
+ 	<li>Top ###TOPN### des Actions de Fonds Speculatif a long-terme</li>
+ 	<li>Top ###TOPN### des Actions de Fonds Speculatif a court-terme</li>
+</ul>
+<img class=" wp-image-37919 alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/hedgefunds.png" alt="hedgefunds" width="165" height="54" />
+<strong>Package Name: </strong>Action de Fonds Speculatif
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Valeur des Constructeurs Immobiliers
+Ce Package relatif aux Constructeurs Immobiliers est concu pour les investisseurs et analystes a la recherche des predictions des actions les plus performantes du secteur de la construction immobiliere. Cela inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures valeurs de constructeurs immobiliers a acheter:
+<ul>
+	<li>Top ###TOPN### des constructeurs immobiliers a long-terme</li>
+	<li>Top ###TOPN### des constructeurs immobiliers a court-terme</li>
+</ul>
+
+<strong>Package Name:</strong> Valeur des Constructeurs Immobiliers
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Actions Hong Kong
+Ces previsions font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. Les previsions completes incluent des predictions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+	<li>Top ###TOPN### des Actions d Hong Kong a long-terme </li>
+	<li>Top ###TOPN### des Actions d Hong Kong a court-terme </li>
+</ul>
+<strong>Package Name:</strong> By Country – Hong Kong Stocks
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision d Indices 
+Ces previsions d actions fait partie du Package des Indices Mondiaux, une des solutions d investissement quantitatif d I Know First. Nous identifions les previsions d indices mondiaux en filtrant notre base de donnees quotidiennement avec l aide de notre algorithme avance. Le Package complet des Indices Mondiaux inclut des previsions quotidiennes pour for un total de ###TOPN2### indices a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Indices Mondiaux a long-terme </li>
+ 	<li>Top ###TOPN### des Indices Mondiaux a court-terme </li>
+</ul>
+
+<img class="alignright wp-image-36936" src="http://iknowfirst.com/wp-content/uploads/2016/05/Indices-Forecast.png" alt="Indices Forecast" width="165" height="54" />
+<strong>Package Name: </strong>Indices Mondiaux
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+<span style="color: #0a0a0a;"><strong><a href="http://iknowfirst.com/53-2/">Get the "World Indices" Package.</a></strong></span>
+
+
+Operations d Inities
+Un initie est une personne legalement autorisee a acheter et vendre des parts de sa societe -et celle des filiales- qui l emploie. Cependant, ces transactions doivent être correctement enregistrees a l’Autorite des Marches Financiers -AMM ou SEC aux Etats-Unis et doit être preparee en amont. Vous pouvez trouver des details de ce type d’operations d’inities dans la base de donnees EDGAR de la SEC. Les previsions de l’algorithme concernant ces actions ont ete recemment repertoriees dans les transactions d’inities. Un “initie” est une personne qui possede au moins un des elements suivants, au travers des projections de notre marche d’actions:
+<ul>
+ 	<li>un acces aux informations non valable au public a propos d’une entreprise (par exemple le directeur d’une entreprise, et ses cadres executifs)</li>
+ 	<li>une propriete d’au moins 10% des fonds propres de la societe</li>
+</ul>
+<img class="alignright wp-image-36855" src="http://iknowfirst.com/wp-content/uploads/2016/05/Insider-Trading.png" alt="insider trading" width="165" height="54" />
+<strong>Package Name: </strong>Actions d Inities
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length: </strong>
+<strong>I Know First Average:</strong> 
+
+
+Prevision des Companies d Assurance
+Le Package des Companies d Assurance est designe pour les investisseurs et les analystes a la recherche de conseils concernant les actions les plus performantes de l Industrie des Companies d Assurance. Ce Package inclut ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleures actions de companies d assurance a trader:
+<ul>
+ 	<li>Top ###TOPN### des Actions de Companies d Assurance a long-terme</li>
+ 	<li>Top ###TOPN### des Actions de Companies d Assurance a court-terme</li>
+</ul>
+<img class="alignright wp-image-36918" src="http://iknowfirst.com/wp-content/uploads/2016/05/Insurance-Companies.png" alt="insurance" width="165" height="54" />
+<strong>Package Name:</strong> ICompanies d Assurance
+<strong>Recommended Position:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision des taux d interets
+Le Package Taux d Interêts comprend des predictions de differents taux d interêts base sur l algorithme d I Know First.
+
+<strong>Package Name:</strong> Taux d Interêts<strong>
+Time Horizon:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+
+Valeurs internationales
+<strong>Package Name:</strong> Valeurs internationales
+<strong>Recommended Position:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Valeurs israeliennes
+Ces previsions font partie du Package Par Pays, un des outils de trading algorithmique d I Know First. La prevision complete inclut des predictions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+
+<ul>
+ 	<li>Top ###TOPN### Israeli stocks for the long position </li>
+ 	<li>Top ###TOPN### Israeli stocks for the short position </li>
+</ul>
+<img class="alignright wp-image-38544" src="http://iknowfirst.com/wp-content/uploads/2016/06/Israeli-Stocks.png" alt="Israeli Stocks" width="165" height="54" />
+<strong>Package Name: </strong>Par Pays - Valeurs israeliennes
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average: </strong>
+
+
+Actions Medicaments
+Le Package Actions Medicaments est concu pour les investisseurs et analystes a la recherche des predictions concernant les meilleures actions a acheter dans l Industrie Medicale. Il inclut ###TOPN2### actions a signaux haussiers et baissiers et indique les meilleures Actions Medicaments a trader:
+<ul>
+ 	<li>Top ###TOPN### des Actions Medicaments sur le long-terme</li>
+ 	<li>Top ###TOPN### des Actions Medicaments sur le court-terme</li>
+</ul>
+
+<img class="alignright wp-image-38187" src="http://iknowfirst.com/wp-content/uploads/2016/06/medicine-stocks.png" width="165" height="54" />
+<strong>Package Name:</strong> Actions Medicaments
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Mega Cap 
+Ces previsions d actions comprennent les meilleures actions determinees par l algorithme avec une capitalisation boursiere de plus de 100 milliard de dollars.
+<ul>
+	<li>Top ###TOPN### des actions Mega Cap a long-terme</li>
+	<li>Top ###TOPN### des actions Mega Cap a court-terme</li>
+</ul>
+<strong>Package Name:</strong> Actions Mega Cap
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Previsions Action Microsoft 
+</ul>
+<strong>Package Name:</strong> Actions Mega Cap
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+Cours De L or
+</ul>
+<strong>Package Name:</strong> Actions Mega Cap
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+Les Tops 10 Actions et le S&P 500
+Ces prévisions font partie du Package Top ###TOPN### des Actions, un des outils de trading systemiques d I Know First. Le Package complet inclut des prédictions quotidiennes pour un total de ###TOPN2### actions à signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des actions à long-terme</li>
+ 	<li>Top ###TOPN### des actions à court-terme</li>
+</ul>
+<img class="wp-image-41750 size-full alignright" src="http://iknowfirst.com/wp-content/uploads/2016/07/top-10-stocks_small.jpg" width="144" height="47" />
+<strong>Package Name:</strong> Top ###TOPN### des Actions
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Mega Cap
+</ul>
+<strong>Package Name:</strong> Actions Mega Cap
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+Transport industriel
+</ul>
+<strong>Package Name:</strong> Actions Mega Cap
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+
+Societe en commandite
+Une MLP, ou Master Limited Partnership, soit l equivalent d une societe en commandite dans le droit francais, correspond a un parteriat limite qui est publiquement trade sur le marche des obligations nationales. Les MLP sont traditionnellement dirigees par un partenaire general alors qu un partenaire limite apporte du capital a l entreprise. Generalement, les investisseurs recoivent un retour sur investissement stable avec les MLP avec la possibilite de participer aux operations de l interieur. Ce package apporte des previsions algorithmiques pour les actions MLP basees sur les donnees du marche.
+
+<img class="alignright wp-image-37253" src="http://iknowfirst.com/wp-content/uploads/2016/05/mlp-stocks-icon.jpg" alt="Stock Forecast Algorithm" width="165" height="54" />
+<strong>Package Name: </strong>Actions de societe en commandite -MLP 
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average: </strong>
+
+
+Prevision Petrole
+<strong>Recommended Long and Short Positions</strong>
+<ul>
+	<li>Gold ETF (GLD) direction</li>
+	<li>Physical Gold (XAU) direction</li>
+	<li>Silver (XAG) direction</li>
+	<li>ICE Brent Crude Oil Futures (B1) direction</li>
+	<li>Crude Oil (CL1) direction</li>
+</ul>
+<strong>Package Name: </strong>Prevision Petrole<strong>
+Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Options
+Ces previsions d Options font partie du Package Options, un des outils de trading algorithmique d I Know First. L integral du Top ###TOPN### des previsions d Options inclut des predictions quotidiennes des meilleures options a acheter pour un total de ###TOPN2### d actions a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### Call Options</li>
+ 	<li>Top ###TOPN### Put Options</li>
+</ul>
+<img class="alignright wp-image-38089" src="http://iknowfirst.com/wp-content/uploads/2016/06/Options-.png" alt="Options" width="186" height="61" />
+<strong>Package Name:</strong> Options
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length: </strong> 
+<strong>I Know First Average</strong>: 
+
+
+Previsions Actions Pharmaceutiques 
+Ces previsions d actions sont concues pour des investisseurs et des analystes a la recherche de predictions des meilleures actions relatif au secteur Pharmaceutique (cf Package des Actions Pharmaceutiques). Le Package inclut ###TOPN2### d actions a signaux haussiers et baissiers et indique les meilleures actions pharmaceutiques a trader.
+
+<ul>
+ 	<li>Top ###TOPN### des Actions Pharmaceutiques a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Pharmaceutiques a court-terme</li>
+</ul>
+<img class="alignright wp-image-37007" src="http://iknowfirst.com/wp-content/uploads/2016/05/Pharma-Stocks-Forecast-1.png" alt="Pharma Stocks Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Actions Pharmaceutiques
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Actions S&P 100
+Les previsions des actions du S&P 100 sont concues pour les investisseurs et analystes a la recherche de predictions concernant les actions a grandes capitalisation boursiere les plus performantes du Package Entreprises s&p 100. 00 Company Package (cf Package des Actions s&p 100). Ce Package comprend ###TOPN2### des actions a signaux haussiers et baissiers et indique les meilleurs action des Entreprises faisant partie du s&p 100 a acheter:
+<ul>
+	<li>Top ###TOPN### des actions S&P100 a long-terme</li>
+	<li>Top ###TOPN### des actions S&P100 a court-terme</li>
+</ul>
+<img class="alignright wp-image-36745" src="http://iknowfirst.com/wp-content/uploads/2016/05/SP-100.png" alt="S&amp;P 100" width="165" height="54" />
+<strong>Package Name:</strong> Entreprises S&P100
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision des Petites Capitalisations
+Le Package des Petites Capitalisations inclut des recommendations de l algorithme d I Know First pour les actions avec une capitalisation boursiere de moins d 1 milliard de dollars:
+<ul>
+ 	<li>Top ###TOPN### des Petites Capitalisations a long-terme</li>
+ 	<li>Top ###TOPN### des Petites Capitalisations a court-terme</li>
+</ul>
+<img class="alignright wp-image-36394" src="https://iknowfirst.com/wp-content/uploads/2016/11/small-cap-stocks-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Petites Capitalisations
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+Actions a moins de $10
+Ces previsions font partie du Package des actions a moins de 10 Dollars, un des services de prevision d I Know First. Le package complet inclut des predictions dactions quotidiennes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des actions a long-terme </li>
+ 	<li>Top ###TOPN### des actions a court-terme </li>
+</ul>
+<img class="alignright wp-image-36409" src="https://iknowfirst.com/wp-content/uploads/2016/11/Under-10-300x98.jpg" alt="" width="165" height="54" />
+<strong>Package Name: </strong>Actions a moins de 10 Dollars
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+
+Actions a moins de $5
+Ces previsions d actions font partie du Package des Actions a moins de 5 Dollars, un des outils de trading algorithmique d I Know First. Le Package complet inclut des predictions quotidienes pour un total de ###TOPN2### actions a signaux haussiers et baissiers:
+<ul>
+ 	<li> Top ###TOPN### des actions a long-terme </li>
+ 	<li> Top ###TOPN### des actions a court-terme </li>
+</ul>
+<img class="alignright wp-image-36628" src="http://iknowfirst.com/wp-content/uploads/2016/05/under-5-1.png" alt="under 5" width="150" height="49" />
+<strong>Package Name:</strong> Actions a moins de 5 Dollars
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision Valeurs Technologiques
+Les prévisions concernant les Valeurs Technologiques sont basées sur des stratégies de sélection d'actions pour les investisseurs et les analystes à la recherche de prédictions concernant les 10 meilleures actions de l'Industrie de la Technologie (cf Package des Valeurs Technologique). Ce Package inclut le ###TOPN2### des actions à signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Technologiques à long-terme</li>
+ 	<li>Top ###TOPN### des Valeurs Technologiques à court-terme</li>
+</ul>
+<img class="alignright wp-image-37247 size-full" src="http://iknowfirst.com/wp-content/uploads/2016/05/Tech-Stocks-165.jpg" alt="Tech Stocks 165" width="165" height="54" />
+<strong>Package Name:</strong> Actions Technologie
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length</strong>: 
+<strong>I Know First Average:</strong> 
+
+
+Actions Transports
+Les prévisions concernant les Actions Transports sont conçues pour les investisseurs et analystes à la recherche de prédictions des meilleures actions dans lesquelles investir dans le secteur des transports (cf Package Actions Transports). Le Package inclut les actions ###TOPN2### à signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Actions Transport a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Transport a court-terme</li>
+</ul>
+<img class="wp-image-43340 alignright" src="https://iknowfirst.com/wp-content/uploads/2016/11/Transportation-Stocks-300x98.jpg" alt="Transportation Stocks" width="233" height="76" />
+<strong>Package Name: </strong>Actions Transports 
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision des Valeurs Britanniques
+Ces prévisions concernant les Valeurs Britanniques font partie du Package Par Pays, un des outils de trading d I Know First basé sur l'Intelligence Artificielle. Les prévisions complètes incluent les prédictions quotidiennes pour le total du ###TOPN2### des actions a signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des valeurs britanniques à long-terme </li>
+ 	<li>Top ###TOPN### des valeurs britanniques à court-terme </li>
+</ul>
+<img class="wp-image-39582 size-full alignright" src="http://iknowfirst.com/wp-content/uploads/2016/06/UK-Stocks-3.jpg" alt="UK Stock Forecast" width="165" height="54" />
+<strong>Package Name: </strong>Par pays - Valeurs britanniques
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+
+Prevision Indices Secteur US
+Ces prévisions algorithmiques font partie du Package des Indices du Secteur US, une des solutions d'investissement quantitatif d'I Know First. Nous identifions les piques des indices du secteur US en filtrant quotidiennemet notre base de données en utilisant notre algorithme avancé. L'integralité du Package des Indices du Secteur Americain inclut des prévisions quotidiennes pour un total de ###TOPN2### des indices à signaux haussiers et baissiers:
+
+<ul>
+ 	<li>Top ###TOPN### des Indices du Secteur Americain sur le long-terme </li>
+ 	<li>Top ###TOPN### des Indices du Secteur Americain sur le court-terme </li>
+</ul>
+<strong>Package Name: </strong>Indices Secteur US
+<strong>Recommended Positions:</strong>
+
+
+Prevision Volatilite
+Actions Volatiles: Ces prévisions concernant les Actions Volatiles ont été conçues pour les investisseurs et analystes a la recherche de prédictions concernant des actions volatiles pour un panier de put et call options liées à un index spécifique. Il inclut 8 indices de volatilité avec des signaux haussiers et baissiers et indique les meilleurs index de Volatilité à trader:
+<ul>
+ 	<li>Indices de Volatilité à long-terme</li>
+ 	<li>Indices de Volatilité à court-terme</li>
+</ul>
+
+<img class="size-full wp-image-39602 alignright" src="http://iknowfirst.com/wp-content/uploads/2016/06/Volatility-Forecast.jpg" alt="Volatility Forecast" width="165" height="54" />
+<strong>Package Name:</strong> Volatilité
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>:
+
+<span style="color: #0000ff;"><strong style="color: #0a0a0a;"><span style="color: #0000ff; text-decoration: underline;"><a href="http://lpage.iknowfirst.com">Get the “Volatility” Package.</a></span></strong></span>
+
+Entreprises S&P 500
+Cette prévision concernant les actions du s&p 500 est conçue pour les investisseurs et analystes à la recherche de prédictions pour l'intégralité du s&p 500 (Cf Package Entreprises S&p 500). Il inclut les actions du ###TOPN2### à signaux haussiers et baissiers et indique les meilleures actions des entreprises S&amp;P 500 a acheter:
+<ul>
+ 	<li>Top ###TOPN### des actions du S&amp;P 500 à long-terme</li>
+ 	<li>Top ###TOPN### des actions du S&amp;P 500 à court-terme</li>
+</ul>
+<img class="alignright wp-image-38201" src="http://iknowfirst.com/wp-content/uploads/2016/06/sp500-300x98.png" alt="sp500" width="165" height="54" />
+<strong>Package Name:</strong> Entreprises S&amp;P 500 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+Portfolio Warren Buffett
+Le Portfolio des actions de Warren Buffett fait partie du Package Top ###TOPN### des Actions de Buffett, une des solutions d'investissement quantitatif d'I Know First. Les investisseurs utilisent généralement l'algorithme autodidacte d'I Know First pour prendre avantage de la strategie d'investissement de Warren Buffett. Le Package complet du Top ###TOPN### des Actions de Warren Buffett inclut les meilleures actions identifiées par l'algorithme et qui sont actuellement dans le portfolio de Warren Buffett:
+
+<ul>
+ 	<li>Top ###TOPN### des Actions de Warren Buffett sur le long-terme</li>
+ 	<li>Top ###TOPN### des Actions de Warren Buffett sur le court-terme</li>
+</ul>
+<img class="alignright wp-image-36946" src="http://iknowfirst.com/wp-content/uploads/2016/05/Warren-Buffett-Portfolio-.png" alt="Warren Buffett Portfolio" width="165" height="54" />
+<strong>Package Name:</strong> Actions de Warren Buffett
+<strong>Recommended Positions:</strong> 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong> 
+
+
+Prevision Actions Apple
+<address style="text-align: center;"><span style="color: #0a0a0a;"><strong><a href="http://apple-stock-news.com/landing/">Get the Apple Stock forecast.</a></strong></span></address>
+<strong>Package Name:</strong> Actions Apple 
+<strong>Recommended Positions:</strong> Short
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average:</strong>
+
+Geants technologiques
+Les prévisions concernant les Actions Geants technologiques sont conçues pour les investisseurs et analystes à la recherche de prédictions des meilleures actions dans lesquelles investir dans le secteur des Geants technologiques (cf Package Actions Geants technologiques). Le Package inclut les actions ###TOPN2### à signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Actions Geants technologiques a long-terme</li>
+ 	<li>Top ###TOPN### des Actions Geants technologiques a court-terme</li>
+</ul>
+<strong>Package Name: </strong>Actions Geants technologiques
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 
+
+Valeurs Immobilieres
+Les prévisions concernant les Valeurs Immobilieres sont conçues pour les investisseurs et analystes à la recherche de prédictions des meilleures actions dans lesquelles investir dans le secteur de l'Immobilier (cf Package Immobilier ). Le Package inclut les actions ###TOPN2### à signaux haussiers et baissiers:
+<ul>
+ 	<li>Top ###TOPN### des Valeurs Immobilieres a long-terme</li>
+ 	<li>Top ###TOPN### des Valeurs Immobilieres a court-terme</li>
+</ul>
+<strong>Package Name: </strong>Valeurs Immobilieres 
+<strong>Recommended Positions</strong>: 
+<strong>Forecast Length:</strong> 
+<strong>I Know First Average</strong>: 

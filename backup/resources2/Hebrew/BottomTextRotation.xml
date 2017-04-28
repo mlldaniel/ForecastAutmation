@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Example of Adding / Editing bottom text
+	Structure on a single bot text:
+	<item>
+		<positionType>Long &amp; Short</positionType>
+		<packageType>ANY</packageType>
+		<text>During the ###TIMEFRAME### forecast, the algorithm had predicted high returns for those seeking stock advice. The best perfor.....
+		</text>
+	</item>
+	There should be only on <items></items>
+	Every <item></item> must be in ONE <items></items>
+	
+	Don't let any field Empty!!!
+	<positionType></positionType>
+	<packageType></packageType>
+	<text></text>
+	
+	Rule of filling Fields 
+	First way:
+		"&" sign should be &amp;
+		quotation mark with &quot;
+		"<" &lt;
+		">" &gt;
+		more can be refered here: 
+			http://www.htmlhelp.com/reference/html40/entities/special.html	https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
+	
+	Second way:
+		cover with CDATA in "HERE"
+		<![CDATA[HERE]]>
+		
+	How to fill	positionType:
+	if you don't have any choice for this field just write 
+	"ANY"
+	or the position Type you want to use with:
+		"Long"
+		"Short"
+		"Long & Short"
+		"Currencies"
+		"Commodities"
+		"XAU"
+		
+	How to fill packageType
+	same if you don't have any choice for this field just write 
+	"ANY"
+	or the package Name you want to use with:
+		52 Week High Stocks
+		52 Week Low Stocks
+		Aggressive Stocks Forecast
+		Apple Stock Forecasts
+		Automotive Stock Forecast
+		Bank Stock Forecast
+		Basic Industry Forecast
+		Biotech Stocks Forecast
+		Brazil Stock Forecast
+		Canadian Stock Forecast
+		Chemicals Stocks
+		Chinese Stock Forecast
+		Computer Industry
+		Conservative Stock Forecast
+		Consumer Stocks
+		Currency Forecast
+		...
+	
+	How to fill text
+		Write what you want you can access to certain variable using ###VAR### style tag...
+		The list of variable you have access will be in a word file name:
+		""
+		
+		
+-->
+<items>
+	<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[###KEYWORD1###: בכל יום האלגוריתם מסמן את  את המניות המומלצות הן לפוזציית לונג והן לפוזציית שורט וזה מתוך עולם  השקעות של 3000 מניות אחריהם הוא עוקב, בתחזיות האלגוריתמיות מתאריך ###FORECASTDATE### לטווח של ###TIMEFRAME### בלטה חבילת ###PACKAGENAME2###, עבור פוזציית לונג המניות המומלצות בחבילה זו הניבו תשואות מרשימות של ###CVSTABLE1-RANK1-RET###%, ###CVSTABLE1-RANK2-RET###%, ###CVSTABLE1-RANK3-RET###%, וזאת ב- ###TIMEFRAME### בלבד.
+עבור פוזציית שורט המניות המומלצות בחבילה זו הניבו תשואות מרשימות של ###CVSTABLE2-RANK1-RET###%, ###CVSTABLE2-RANK2-RET###%, ###CVSTABLE2-RANK3-RET###%, וזאת ב- ###TIMEFRAME### בלבד.
+
+ חבילה זו הניבה תשואות ממוצעת הגבוהות משמעותית מביצועי מדד S&P 500 באותה תקופה.
+ עבור פוזציית לונג התשואה הכוללת של התחזית הייתה ###CVSTABLE1-IKFAVG###%, עבור פוזציית שורט התשואה הכוללת של התחזית הייתה ###CVSTABLE2-IKFAVG###% וכל זאת לעומת תשואה של ###CVSTABLE2-S&P500###% של מדד ה-500S&P.
+]]>
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType><![CDATA[Commodities Forecast]]></packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[סחורות מומלצות: אלגוריתם הבינה מלאכותית מפיק תחזיק יומית ללמעלה מ-46 סחורות בכל יום.
+תחזית הסחורות  מתאריך DATE  הניבה ממוצע של ###CVSTABLE1-IKFAVG###% הסחורות הבולטת בתחזית זו הניבה תשואה של ###CVSTABLE1-RANK1-RET###%, ###CVSTABLE1-RANK2-RET###% וכן תשואות של ###CVSTABLE1-RANK3-RET###%.]]>
+		
+<![CDATA[התחזית כוללת:
+<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text>
+		###ANYTEXT###
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	<!--
+	<item>
+		<positionType>Short</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### top stock picks from the algorithm decreased as predicted for this ###TERMLENGHT### forecasting period. ###CVSTABLE1-RANK1-SYM### saw monumental growth of ###CVSTABLE1-RANK1-RET###% in just ###TIMEFRAME###. ###CVSTABLE1-RANK2-SYM###, and ###CVSTABLE1-RANK3-SYM### also had excellent performances with returns of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###% respectively. This ###TIMEFRAME### forecast had overall growth of ###CVSTABLE1-IKFAVG###%]]>
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<em>Algorithmic traders utilize these daily forecasts by the I Know First market prediction system as a tool to enhance portfolio performance, verify their own analysis and act on market opportunities faster. This forecast was sent to current I Know First subscribers.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href=\"http://www.google.com/url?q=http%3A%2F%2Fiknowfirst.com%2Fstock-market-predictions-how-to-interpret-the-i-know-first-diagram&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNF_g-b97PierJdmMImH2PsgQwJxUw\">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href=\"http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+	-->
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Interest Rates Forecast</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Currency</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[המסחר במט"ח: אלגוריתם הבינה מלאכותית מפיק תחזיק יומית ללמעלה מ-27 צמדי מט"ח בכל יום.
+תחזית המט"ח מתאריך DATE  הניבה אחוז דיוק של ###CVSTABLE1-IKFAVG###%, צמד המט"ח הבולטת בתחזית זו היה  ###CVSTABLE1-RANK1-SYM### עם תשואה של ###CVSTABLE1-RANK1-RET###%, צמדי מט"ח בולטים נוספים: ###CVSTABLE1-RANK2-SYM### עם תשואה של ###CVSTABLE1-RANK2-RET###% וכן ###CVSTABLE1-RANK3-SYM### עם תשואה של ###CVSTABLE1-RANK3-RET###%.]]>
+		
+<![CDATA[התחזית כוללת:
+<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	
+	<item>
+		<positionType>ANY</positionType>
+		<packageType><![CDATA[Gold]]></packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[המסחר בזהב: אלגוריתם הבינה מלאכותית מפיק תחזיק יומית ללמעלה מ-46 סחורות בכל יום כולל תחזית זהב, תחזית כסף וכן תחזית נפט. 
+תחזית הסחורות  מתאריך ###FORECASTDATE### הניבה ממוצע של ###CVSTABLE1-IKFAVG###% תחזית הזהב הניבה תשואה של GOLD RETURN, התחזית לאונקיית כסף הניבה תשואה של silver return  ותחזית הנפט הניבה תשואה של OIL RETURN.]]>
+		
+<![CDATA[התחזית כוללת:
+<a href="http://lpage.iknowfirst.com/hebrew">לקבלת התחזית המעודכנת ביותר בכל יום לתיבת הדואר האלקטרוני</a>
+<h4><span style="color: #000000;">כיצד לקרוא את התחזית?</span></h4>
+התחזית האלגוריתמית משמאל הופקה ע"י האלגוריתם בתאריך הנקוב.
+בכל יום המנויים שלנו מקבלים את התחזית המעודכנת, כאשר כל תחזית כוללת את המניות המומלצות ואת ההזדמנויות הספציפיות לטווח הקצר, הבינוני והארוך (6 טווחי זמן).
+לדוגמא, התחזית לטווח של חודש עשויה לכלול מניות מומלצות השונות מהתחזית לטווח של 3 חודשים.
+בתחזית הנ"ל הקוביות הירוקות מייצגות את התחזיות האלגוריתמיות החיוביות (פוזיציית לונג) והקוביות האדומות מייצגות את התחזיות האלגוריתמיות השליליות (פוזיציית שורט). כל קובייה מייצגת מנייה אחרת, כאשר המפה מסודרת על בסיס אותות המגמה, בסדר יורד.
+כל קובייה כוללת שני אינדיקטורים: אות מגמה ועוצמת תחזית.
+הטבלה מצד ימין מייצגת את ביצועי האלגוריתם בתם תקופת התחזית, את התשואה שהניבה כל תחזית ובנוסף את התשואה הממוצעת הכוללת.
+
+לפירוט נוסף לגבי אופן קריאת התחזית, <a href="http://iknowfirst.co.il/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA-%D7%9C%D7%A7%D7%A8%D7%99%D7%90%D7%AA-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA">לחץ כאן</a>.]]>
+		</text>
+	</item>
+	
+	
+</items>

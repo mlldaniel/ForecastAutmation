@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paragraph>
+	<sentences>
+		<sentence><![CDATA[The algorithm correctly predicted ###CVSTABLE1-COUNTACCURATE### out ###CVSTABLE1-COUNTTOTALROW### of the suggested trades in the ###PACKAGENAME2### Package for this ###TIMEFRAME### forecast.]]></sentence>
+		<sentence><![CDATA[During the ###TIMEFRAME### forecasted period several picks in the ###PACKAGENAME2### Package saw significant returns. The algorithm had correctly predicted ###CVSTABLE1-COUNTACCURATE### out ###CVSTABLE1-COUNTTOTALROW### stocks.]]></sentence>
+		<sentence><![CDATA[I Know First’s State of the Art Algorithm accurately forecasted ###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### trades in this ###PACKAGENAME2### Package for the ###TIMEFRAME### time period.]]></sentence>
+		<sentence><![CDATA[For this ###TIMEFRAME### forecast the algorithm had successfully predicted ###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### movements.]]></sentence>
+		<sentence><![CDATA[This ###PACKAGENAME2### Package forecast had correctly predicted ###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### stock movements.]]></sentence>
+		<sentence><![CDATA[Several predictions in this ###TERMLENGHT### ###TIMEFRAME### forecast saw significant returns. The algorithm had correctly predicted ###CVSTABLE1-COUNTACCURATE### out ###CVSTABLE1-COUNTTOTALROW### stock movements.]]></sentence>
+		<sentence><![CDATA[In this ###TIMEFRAME### forecast for the ###PACKAGENAME2### Package, there were many high performing trades and the algorithm correctly predicted ###CVSTABLE1-COUNTACCURATE### out ###CVSTABLE1-COUNTTOTALROW### stocks.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### stock prices in this forecast for the ###PACKAGENAME2### Package moved as predicted by the algorithm.]]></sentence>
+		<sentence packageName2="options"><![CDATA[###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### option prices in this forecast for the ###PACKAGENAME2### Package moved as predicted by the algorithm.]]></sentence>
+		<sentence packageName2="interest rates"><![CDATA[I Know First’s State of the Art Algorithm accurately forecasted ###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### interest rates in this ###PACKAGENAME2### Package for the ###TIMEFRAME### time period.]]></sentence>
+		<sentence packageName2="world indices"><![CDATA[For this ###TIMEFRAME### forecast the algorithm had successfully predicted the changes in ###CVSTABLE1-COUNTACCURATE### out of ###CVSTABLE1-COUNTTOTALROW### indices.]]></sentence>	
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### was the highest-earning trade with a return of ###CVSTABLE1-RANK1-RET###% in ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[The prediction with the highest return was ###CVSTABLE1-RANK1-SYM###, at ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[The greatest return came from ###CVSTABLE1-RANK1-SYM### at ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[The highest trade return came from ###CVSTABLE1-RANK1-SYM###, at ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[The top performing prediction from this package was ###CVSTABLE1-RANK1-SYM### with a return of ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### was the top performing prediction with a return of ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[The top-performing prediction in this forecast was ###CVSTABLE1-RANK1-SYM###, which registered a return of ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### was our best stock pick this week a return of ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[Additional high returns came from ###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM###, at ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###% respectively.]]></sentence>
+		<sentence><![CDATA[Further notable returns came from ###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### at ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%, respectively.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### also performed well for this time horizon with returns of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%, respectively.]]></sentence>
+		<sentence><![CDATA[The suggested trades for ###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### also had notable ###TIMEFRAME### yields of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%, respectively.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM###, and ###CVSTABLE1-RANK3-SYM### had notable returns of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### saw outstanding returns of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[Other notable stocks were ###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### with a return of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### and ###CVSTABLE1-RANK3-SYM### followed with returns of ###CVSTABLE1-RANK2-RET###% and ###CVSTABLE1-RANK3-RET###% for the ###TIMEFRAME### period.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[The package had an overall average return of ###CVSTABLE1-IKFAVG###%, providing investors with a ###CVSTABLE1-PREMIUM###% premium over the S&P 500's return of ###CVSTABLE1-S&P500###% during the period.]]></sentence>
+		<sentence><![CDATA[The ###PACKAGENAME2### package had an overall average return of ###CVSTABLE1-IKFAVG###%, providing investors with a premium of ###CVSTABLE1-PREMIUM###% over the S&P 500's return of ###CVSTABLE1-S&P500###%.]]></sentence>
+		<sentence><![CDATA[The package itself saw an overall return of ###CVSTABLE1-IKFAVG###%, providing investors with a ###CVSTABLE1-PREMIUM###% premium above the S&P 500’s return of ###CVSTABLE1-S&P500###% for the same time period.]]></sentence>
+		<sentence><![CDATA[The overall average return in this ###PACKAGENAME2### package was ###CVSTABLE1-IKFAVG###%, providing investors with a ###CVSTABLE1-PREMIUM###% premium over the S&P 500’s return of ###CVSTABLE1-S&P500###% during the same period.]]></sentence>
+		<sentence><![CDATA[The package’s overall average return was ###CVSTABLE1-IKFAVG###%, providing investors with a ###CVSTABLE1-PREMIUM###% premium over the S&P 500’s return of ###CVSTABLE1-S&P500###% during the same period.]]></sentence>
+		<sentence><![CDATA[With these notable trade returns, the package itself registered an average return of ###CVSTABLE1-IKFAVG###% compared to the S&P 500’s return of ###CVSTABLE1-S&P500###% for the same period.]]></sentence>
+		<sentence><![CDATA[The package had an overall average return of ###CVSTABLE1-IKFAVG###%, providing investors with a premium of ###CVSTABLE1-PREMIUM###% over the S&P 500’s return of ###CVSTABLE1-S&P500###% during the same period.]]></sentence>
+		<sentence><![CDATA[The package saw an overall yield of ###CVSTABLE1-IKFAVG###% versus the S&P 500’s return of ###CVSTABLE1-S&P500###% implying a market premium of ###CVSTABLE1-PREMIUM###%.]]></sentence>
+		<sentence packageName2="commodity"> <!--  Package Name --> 
+			<![CDATA[The package had an overall average return of ###CVSTABLE1-IKFAVG###% during the period.]]>
+		</sentence>
+	</sentences>
+</paragraph>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: Returns up to ###CVSTABLE1-RANK1-RET###% in ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Package Name: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Package Name: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>Read The Full Forecast</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: Returns up to ###CVSTABLE1-RANK1-RET###% in ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Package Name: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="http://lpage.iknowfirst.com/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Package Name: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="###POSTLINK###"><h2>Read The Full Forecast</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Currency Forecast</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: Almost ###IKNOWFIRSTAVG###% Hit Ratio in ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<p style="text-align: justify;">###PACKAGEEXPLAIN###</p>
+			<ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul>
+			###PACKAGENAMEIMAGE###
+			<strong>Package Name: </strong>###PACKAGENAME2###<br>
+			<strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="http://lpage.iknowfirst.com/currency" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			###BOTTOMTEXT###
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[###PACKAGENAMEIMAGE###
+			<strong>Package Name: </strong>###PACKAGENAME2###<br>
+			<strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="###POSTLINK###"><h2>Read The Full Forecast</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+		<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>Currency Forecast</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: Almost ###CVSTABLE1-RANK1-RET###% Hit Ratio in ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<p style="text-align: justify;">###PACKAGEEXPLAIN###</p>
+			<ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul>
+			###PACKAGENAMEIMAGE###
+			<strong>Package Name: </strong>###PACKAGENAME2###<br>
+			<strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###<br>
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="http://lpage.iknowfirst.com/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			###BOTTOMTEXT###
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[###PACKAGENAMEIMAGE###
+			<strong>Package Name: </strong>###PACKAGENAME2###<br>
+			<strong>Recommended Positions: </strong>###RECOMMENDEDPOSITIONS###
+			<strong>Forecast Length: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="###POSTLINK###"><h2>Read The Full Forecast</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+</items>

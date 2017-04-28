@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paragraph>
+	<sentences>
+		<sentence><![CDATA[L'algorithme a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### transfaction suggérées dans le Package ###PACKAGENAME2### pour cette prévision sur ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[Pendant cette prévision sur ###TIMEFRAME### plusieurs actions du Package ###PACKAGENAME2### ont connu des retours significatifs. L'algorithme a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### actions.]]></sentence>
+		<sentence><![CDATA[L'Algorithme d'I Know First a prédit avec succès ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### transactions dans ce Package ###PACKAGENAME2### sur ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[Pour cette prévision sur ###TIMEFRAME### l'algorithme a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### mouvements.]]></sentence>
+		<sentence><![CDATA[Cette prévision concernant le Package ###PACKAGENAME2### a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### mouvements des actions.]]></sentence>
+		<sentence><![CDATA[Plusieurs prédictions dans cette prévision sur ###TERMLENGHT### ###TIMEFRAME### a connu des retours significatifs. L'algorithme a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### mouvements d'actions.]]></sentence>
+		<sentence><![CDATA[Dans cette prévision sur ###TIMEFRAME### concernant le Package ###PACKAGENAME2###, de nombreuses transactions ont obtenu des performances significatives et l'algorithme a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### actions.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### prix d'actions de cette prévision concernant le Package ###PACKAGENAME2### ont suivi les mouvements prédits par l'algorithme.]]></sentence>
+		<sentence packageName2="Options"><![CDATA[###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### prix d'option de cette prévision concernant le Package ###PACKAGENAME2### ont suivi les mouvements prédits par l'algorithme.]]></sentence>
+		<sentence packageName2="Prevision des taux d interets"><![CDATA[L'Algorithme d'I Know First a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### traux d'intérêts de ce Package ###PACKAGENAME2### sur ###TIMEFRAME###.]]></sentence>
+		<sentence packageName2="Indices Mondiaux"><![CDATA[Pour cette prévision sur ###TIMEFRAME### l'algorithme a prédit avec succès les changements de ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### indices.]]></sentence>	
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### a été la transaction avec le plus haut rendement avec un retour de ###CVSTABLE1-RANK1-RET###% sur ###TIMEFRAME###.]]></sentence>
+		<sentence><![CDATA[La prédiction ayant connu le plus haut rendement a été ###CVSTABLE1-RANK1-SYM###, avec ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[Le plus grand retour a été réalisé par ###CVSTABLE1-RANK1-SYM### avec ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[La transaction ayant réalisé le retour le plus haut a été ###CVSTABLE1-RANK1-SYM###, avec ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[La prédiction la plus performante de ce Package a été ###CVSTABLE1-RANK1-SYM### avec un retour de ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### a été la prédiction la plus performante avec un retour de ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[La prédiction la plus performante de cette prévision a été ###CVSTABLE1-RANK1-SYM###, qui a enregistré un retour de ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK1-SYM### a été notre meilleure action de la semaine avec un retour de ###CVSTABLE1-RANK1-RET###%.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[Les hauts retours additionnels prédit par l'algorithme ont été ceux des actions ###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM###, avec respectivement ###CVSTABLE1-RANK2-RET###% et ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[D'autres retours significatifs ont été réalisés par ###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM### avec respectivement ###CVSTABLE1-RANK2-RET###% et ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM### ont également réalisés de bonnes performances sur cette période avec des retours respectifs de ###CVSTABLE1-RANK2-RET###% et ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[Les transactions suggérées pour ###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM### ont eu des rendements signifcatifs sur ###TIMEFRAME### de respectivement ###CVSTABLE1-RANK2-RET###% et ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM###, et ###CVSTABLE1-RANK3-SYM### ont connu des retours significatifs de ###CVSTABLE1-RANK2-RET###% et de ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM### ont vu leurs rendements augmenter de façon exponentielle avec des retours respectifs de ###CVSTABLE1-RANK2-RET###% et de ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[D'autres actions ont obtenu de bons résultats. C'est le cas de ###CVSTABLE1-RANK2-SYM### et de  ###CVSTABLE1-RANK3-SYM### avec un retour de ###CVSTABLE1-RANK2-RET###% et de ###CVSTABLE1-RANK3-RET###%.]]></sentence>
+		<sentence><![CDATA[###CVSTABLE1-RANK2-SYM### et ###CVSTABLE1-RANK3-SYM### ont suivi avec des retours de ###CVSTABLE1-RANK2-RET###% et de ###CVSTABLE1-RANK3-RET###% pour une période de ###TIMEFRAME###.]]></sentence>
+	</sentences>
+	
+	<sentences>
+		<sentence><![CDATA[Le retour moyen général obtenu par le Package est de ###CVSTABLE1-IKFAVG###%, offrant ainsi aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour du S&P 500's de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Le Package ###PACKAGENAME2### a obtenu un retour général moyen de ###CVSTABLE1-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###%.]]></sentence>
+		<sentence><![CDATA[Le Package en lui-même a connu un retour moyen de ###CVSTABLE1-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Le retour moyen général du Package ###PACKAGENAME2### a été ###CVSTABLE1-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Le Package a connu un retour moyen général de ###CVSTABLE1-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Avec ces retours sur investissement significatifs, le package en lui-même a enregistré un retour moyen de ###CVSTABLE1-IKFAVG###% comparé au retour S&P 500 de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Le Package a connu un retour moyen général de ###CVSTABLE1-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE1-PREMIUM###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###% pour la même période.]]></sentence>
+		<sentence><![CDATA[Le Package a connu un rendement général de ###CVSTABLE1-IKFAVG###% contre un retour S&P 500 de ###CVSTABLE1-S&P500###% impliquant une prime de marché de ###CVSTABLE1-PREMIUM###%.]]></sentence>
+		<sentence packageName2="Matieres Premieres"><![CDATA[Le Package a obtenu un retour général moyen de ###CVSTABLE1-IKFAVG###% pour la même période.]]></sentence>
+	</sentences>
+</paragraph>

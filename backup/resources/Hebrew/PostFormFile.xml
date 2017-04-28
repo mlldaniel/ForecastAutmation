@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: ###CVSTABLE1-RANK1-RET###% ב- ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1### ###KEYWORD2###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/hebrew/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>קרא את התחזית המלאה</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: ###CVSTABLE1-RANK1-RET###% ב- ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1### ###KEYWORD2###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###% (לונג) ו-###CVSTABLE2-IKFAVG###% (שורט)<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/hebrew/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###% (לונג) ו-###CVSTABLE2-IKFAVG###% (שורט)<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>קרא את התחזית המלאה</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Currency Forecast</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: ###CVSTABLE1-RANK1-RET###% ב- ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1### ###KEYWORD2###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/hebrew/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>קרא את התחזית המלאה</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+		<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>Currency Forecast</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1### ###KEYWORD2###: ###CVSTABLE1-RANK1-RET###% ב- ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1### ###KEYWORD2###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/hebrew/" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>שם החבילה: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>פוזיצייה: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>תאריך פרסום התחזית: </strong>###FORECASTDATE###<br>
+			<strong>תקופת התחזית: </strong> ###TIMEFRAME### (עד לתאריך ה-###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>תשואה ממוצעת של האלגוריתם: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>קרא את התחזית המלאה</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+</items>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Example of Adding / Editing bottom text
+	Structure on a single bot text:
+	<item>
+		<positionType>Long &amp; Short</positionType>
+		<packageType>ANY</packageType>
+		<text>During the ###TIMEFRAME### forecast, the algorithm had predicted high returns for those seeking stock advice. The best perfor.....
+		</text>
+	</item>
+	There should be only on <items></items>
+	Every <item></item> must be in ONE <items></items>
+	
+	Don't let any field Empty!!!
+	<positionType></positionType>
+	<packageType></packageType>
+	<text></text>
+	
+	Rule of filling Fields 
+	First way:
+		"&" sign should be &amp;
+		quotation mark with &quot;
+		"<" &lt;
+		">" &gt;
+		more can be refered here: 
+			http://www.htmlhelp.com/reference/html40/entities/special.html	https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
+	
+	Second way:
+		cover with CDATA in "HERE"
+		<![CDATA[HERE]]>
+		
+	How to fill	positionType:
+	if you don't have any choice for this field just write 
+	"ANY"
+	or the position Type you want to use with:
+		"Long"
+		"Short"
+		"Long & Short"
+		"Currencies"
+		"Commodities"
+		"XAU"
+		
+	How to fill packageType
+	same if you don't have any choice for this field just write 
+	"ANY"
+	or the package Name you want to use with:
+		52 Week High Stocks
+		52 Week Low Stocks
+		Aggressive Stocks Forecast
+		Apple Stock Forecasts
+		Automotive Stock Forecast
+		Bank Stock Forecast
+		Basic Industry Forecast
+		Biotech Stocks Forecast
+		Brazil Stock Forecast
+		Canadian Stock Forecast
+		Chemicals Stocks
+		Chinese Stock Forecast
+		Computer Industry
+		Conservative Stock Forecast
+		Consumer Stocks
+		Currency Forecast
+		...
+	
+	How to fill text
+		Write what you want you can access to certain variable using ###VAR### style tag...
+		The list of variable you have access will be in a word file name:
+		""
+		
+		
+-->
+<items>
+	<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[Pour cette prévision sur ###TIMEFRAME###, l'algorithme a prédit de haut retours à ceux qui cherchaient des conseils concernant les actions. La meilleure performance à court-terme a été celle de <em>###CVSTABLE2-RANK1-SYM###</em> qui a enregistré un retour de ###CVSTABLE2-RANK1-RET###%. A long-terme, la croissance la plus forte a été enregistrée par <em>###CVSTABLE1-RANK1-SYM###</em> avec un retour de ###CVSTABLE1-RANK1-RET###% pour la même période. Le Package en lui-même a obtenu un retour moyen général de ###CVSTABLE1-IKFAVG###%, à long-terme, offrant une prime de ###CVSTABLE1-PREMIUM###% contre un retour SP500 de ###CVSTABLE1-S&P500###%. Concernant les actions à court-terme, le package a obtenu un retour général de ###CVSTABLE2-IKFAVG###%, offrant aux investisseurs une prime de ###CVSTABLE2-PREMIUM###% contre un retour S&P500 de ###CVSTABLE2-S&P500###%. L'Algorithme d'I Know First a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### actions à long-terme, et ###CVSTABLE2-COUNTACCURATE### des ###CVSTABLE2-COUNTTOTALROW### actions à court-terme pour cette prévision sur ###TIMEFRAME###.]]>
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<em>Les traders algorithmiques utilisent les prévisions quotidiennes du système de prédiction du marché d'I Know First comme un outil permettant d'améliorer la performance de leur portefeuille d'actions, pour vérifier leurs propres analyses et agir plus rapidement aux opportunités du marché. Cette prévision a été envoyé aux actuels abonnés d'I Know First.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+
+	<item>
+		<positionType><![CDATA[Long & Short]]></positionType>
+		<packageType>Matieres Premieres</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[Pour cette prévision sur ###TIMEFRAME###, l'algorithme a prédit de hauts retours pour ceux à la recherche d'opportunités d'investissement. La meilleure performance à court-terme est venu de <em>###CVSTABLE2-RANK1-SYM###</em> qui a enregistré un retour de ###CVSTABLE2-RANK1-RET###%. A long-terme, la croissance la plus forte a été enregistrée par <em>###CVSTABLE1-RANK1-SYM###</em> avec un retour de ###CVSTABLE1-RANK1-RET###% pendant la même période. Le package en lui-même a connu un retour moyen général de ###CVSTABLE1-IKFAVG###% à long-terme. Concernant les actions à court-terme, le package a connu un retour général moyen de ###CVSTABLE2-IKFAVG###%. L'algorithme d'I Know First Algorithm a correctement prédit ###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### matières premières à long-terme, et ###CVSTABLE2-COUNTACCURATE### des ###CVSTABLE2-COUNTTOTALROW### matières premières à court-terme sur une période de ###TIMEFRAME###.]]>
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<em>Les traders algorithmiques utiisent les prévisions quotidiennes du système de prédictions d'I Know First comme un outil permettant d'améliorer la performance de leur portefeuille d'actions, pour vérifier leurs propres analyses et agir plus rapidement aux opportunités du marché. Cette prévision a été envoyé aux abonnés actuels d'I Know First.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text>
+		###ANYTEXT###
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<em>Les traders algorithmiques utilisent ces performances quotidiennes par le système de prédictions d'I Know First comme un outil leur permettant d'améliorer la performance de leur portefeuille d'actions, pour vérifier leurs propres analyses et agir ainsi plus rapidement aux opportunités de marché. Cette prévision a été envoyé aux abonnés actuels d'I Know First.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+	
+	<item>
+		<positionType>Short</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[###CVSTABLE1-COUNTACCURATE### des ###CVSTABLE1-COUNTTOTALROW### meilleures actions de l'algorithme ont vu leurs cours baisser comme prédit par cette prévision s'étendant sur ###TERMLENGHT###. ###CVSTABLE1-RANK1-SYM### a connu une croissance vertigineuse de ###CVSTABLE1-RANK1-RET###% en seulement ###TIMEFRAME###. ###CVSTABLE1-RANK2-SYM###, et ###CVSTABLE1-RANK3-SYM### ont également obtenu d'excellentes performances avec des retours respectifs de ###CVSTABLE1-RANK2-RET###% et de ###CVSTABLE1-RANK3-RET###%. Cette prévision sur ###TIMEFRAME### a obtenu une croissance moyenne de ###CVSTABLE1-IKFAVG###%]]>
+		
+		###TOPSTOCKDESCRIPTION###
+		
+		<![CDATA[<em>Les traders algorithmiques utilisent les prévisions quotidiennes du système de prédictions du marché d'I Know First comme un outil leur permettant d'améliorer la performance de leur portefeuilles d'actions, de vérifier leurs propres analyses et d'agir ainsi plus rapidement aux opportunités du marché. Ces prévisions ont été envoyées aux abonnés actuels d'I Know First.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType><![CDATA[Prévision des taux d'intérêts]]></packageType>
+		<subpackage>ANY</subpackage>
+		<text>
+		###ANYTEXT###
+		
+		
+		<![CDATA[<em>Les traders algorithmiques utilisent les prévisions quotidiennes du système de prédiction du marché d'I Know First pour améliorer la performance de leur portefeuille d'actions, de vérifier leurs propres analyses et d'agir ainsi plus rapidement aux opportunités du marché. Cette prévision a été envoyé aux abonnés actuels d'I Know First.</em> <h2 class=\"p1\" style=\"text-align: center;\"><a href="https://iknowfirst.com/stock-market-predictions-how-to-interpret-the-i-know-first-diagram">How to interpret this diagram</a></h2><strong>Please note-for trading decisions use the most recent forecast. </strong><a href="http://lpage.iknowfirst.com\"><strong><span style=\"color: #0000ff;\">Get today’s forecast and Top stock picks.</span></strong></a>]]>
+		</text>
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Devises</packageType>
+		<subpackage>ANY</subpackage>
+		<text><![CDATA[<a href="http://currency-prediction.com/"><strong>View More Currency Forecasts</strong></a>
+<h2><strong>Comment interpréter ce diagramme:</strong></h2>
+<strong>Prévision Algorithmique des Devises:</strong> Le tableau de gauche représente les prévisions du forex de la perspective du forex, produit par l'algorithme d'I Know First. Chaque jour, les abonnés reçoivent des prévisions pour six périodes différentes. Les prédictions sur un mois des devises peut différer de celles des prévisions sur un an. Dans le tableau inclu, seules les devises pertinentes ont été incluses. Une boîte verte représente une prévision haussière tandis qu'une rouge indique une prévision baissière. Les boîtes sont ensuite arrangées selon leurs signaux et leurs valeurs de prédictabilités respectives (voir ci-dessous pour des définitions détaillées).
+<strong>Performance des Prévision: </strong>La table à droit compare les performances actuelles des devises aux prédictions d'I Know First. La colonne intitulée "Forecast" indique la direction prédit par l'algorithme et la colonne "% Change" montre la performance réelle de la devise sur une période précisée. La colonne "Accuracy" présente un "v" si l'algorithme a correctement prédit la direction de l'action ou un "x" si la prévision était incorrecte. Le "Hit Ratio I Know First" représente the algorithm's accuracy when predicting the trend of the currency.
+<strong>Signal: </strong>Cet indicateur représente les mouvements -de direction et de tendance prévu; et non un pourcentage ou un prix spécifique à atteindre. La force du signal indique combien le prix actuel a dévié de ce que le système considère comme un prix d'équilibre dit “fair” price.
+<strong>Prédictabilité:</strong> Cette valeur est obtenue en calculant la corrélation entre la prédiction actuelle et le mouvement réel de l'actif pour chaque période. L'algorithme calcule ensuite la moyenne des résultats de tous les points de prédiction tout en octroyant plus de poids à la performance récente. La machine apprenant sans cesse, les valeurs de P augmentent généralement.
+<strong>Merci d'utiliser les prévisions les plus récentes pour vos transactions </strong><a href="http://lpage.iknowfirst.com/"><strong>Obtenez les meilleures prévisions du jour et les meilleures actions.</strong></a>]]>
+		</text>
+	</item>
+	
+	<item>
+		<positionType>ANY</positionType>
+		<packageType><![CDATA[Cours De L’or]]></packageType>
+		<subpackage>Gold</subpackage>
+		<text><![CDATA[<h2 style="text-align: center;"><a href="http://lpage.gold-prediction.com/">View more gold forecasts</a></h2>
+<h2><strong>Comment interpréter ce diagramme:</strong></h2>
+<strong>Performance algorithmique des Actions:</strong> La table sur la gauche représente les prévisions des actions par l'algorithme d'I Know First. Chaque jour, les abonnés reçoivent les prévisions pour six différentes périodes. Le Top 10 des Actions sur 1 mois peut différer des prévisions sur un an. Dans le tableau inclu, seuls les symboles boursiers pertinents ont été inclus. Une boîte verte représente une prévision positive alors qu'une rouge représente une prévision négative. Les boîtes sont ensuite ordonnées selon leurs signaux et leurs valeurs de prédictabilités respectives (voir ci-dessous pour plus d'information).
+
+<strong>Performance de la Prévision:</strong> Le tableau de droit compare les performances réelles des actions avec les prédictions d'I Know First. La colonne intitulée "Forecast" montre la direction prédite par l'algorithme et la colonne "% Change" montre les performances réelles des actions sur une période de temps précisée. La colonne "Accuracy" montre un "v" si l'algorithme a correctement prédit la direction du cours de l'action et un "x" si la prédiction était incorrecte. La moyenne d'I Know First présente le même poids moyen en pourcentage des actions listées dessous, et le S&amp;P 500 peuvent être inclus en tant que référence s'ils s'avèrent pertinents.
+<strong>Signal: </strong>This indicator represents the predicted movement direction/trend; not a percentage or specific target price. The signal strength indicates how much the current price deviates from what the system considers an equilibrium or “fair” price.
+<strong>Prédictabilité:</strong> La valeur est obtenue en caculant la corrélation entre la prédiction actuelle et le mouvement réel de l'actif pour chaque période. L'algorithme calcule ensuite la moyenne des résultats des points de prédictions tout en donnant plus de poids à la performance récente. Comme la machine ne fait qu'apprendre en continu, la valeur de prédictabilité augmente généralement.
+]]>
+		</text>
+	</item>
+	
+	
+</items>

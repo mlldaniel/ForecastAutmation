@@ -1,0 +1,871 @@
+###START###
+
+High Volume Stocks
+מניות מומלצות בטווח מחיר של $5 ל-$30 
+בכל יום האלגוריתם עוקב אחר החברות האמריקאיות בטווח מחיר של $5 ל-$30 אשר בעלות מחזור יומי ממוצע של למעלה ממיליון דולר לאחר מכן, האלגוריתם מסמן את מניות החברות  המומלצות ביותר למגמת מסחר חיובית (מסחר לונג) והמניות המומלצות ביותר למגמת מסחר שלילי (מסחר שורט).
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.co.il/wp-content/uploads/2017/01/High-Volume-Stocks.jpg" alt="מניות מומלצות בעלות שער הנמוך מ-10$" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות בטווח מחיר של $5 ל-$30
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Gold
+זהב
+התחזית למחיר הזהב. התחזית כוללת תחזית יומית למגמת המסחר בזהב, כסף ונפט לטווחי זמן שונים.
+התחזית כוללת:
+<ul>
+ 	<li>תחזית אונקיית  זהב  (XAU &amp; GLD)</li>
+ 	<li>תחזית אונקיית כסף (XAG)</li>
+ 	<li>תחזית חבית נֵפט (B1 &amp; CL1)</li>
+ 	<li>תאריך התחזית 27.8.2017 </li>          
+ 	<li>התחזית מבוססת על האלגוריתם של I Know First  מתעדכנת על בסיס תנועות הכסף באופן יומי. מומלץ לקבל החלטות מסחר על בסיס התחזית היומית המעודכנת ביותר.</li>
+</ul>
+<strong>Package Name:</strong> זהב
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Currency
+רשימת צמדי מט"ח הכוללים המלצות למגמת מסחר חיובית/שלילית (לונג/שורט).
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/curency-165.jpg" width="144" height="47" />
+<ul>
+</ul>
+<strong>Package Name:</strong> צמדי מט"ח
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Aggressive
+ מניות אגרסיביות מומלצות
+<p style="direction: rtl;"><span style="line-height: 1.5;">###TOPN### מניות אגרסיביות מומלצות.
+</span>רשימת המניות המומלצות כוללת מניות אגרסיביות המומלצות למגמת מסחר חיובית(מסחר לונג).
+שירות תחזית המניות אגרסיביות הוא שירות חדש מבית I Know First. השירות כולל איתור מניות מומלצות "המסוכנות" יותר - כלומר, מניות אשר השקעה בהן טומנת בחובה סיכון גבוה יותר מצד אחד אך גם סיכוי לתשואה משמעותית יותר מצד שני.
+המניות המשתייכות למסלול זה הן תנודתיות יותר ומומלצות לסוחרים מנוסים בלבד.</p>
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Risk-Conscious-stocks-300x98.png" alt="מניות אגרסיביות מומלצות" width="144" height="47" />
+<strong>Package Name:</strong> מניות אגרסיביות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+European Stocks
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/European-Stock-Forecast-1.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות אירופאיות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Energy Stocks
+מניות אנרגיה מומלצות
+<p style="direction: rtl;">רשימת ###TOPN### מניות האנרגיה המומלצות כוללת מניות מומלצות למגמת מסחר חיובית(מסחר לונג).</p>
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Energy--300x98.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות אנרגיה מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Biotech Stocks
+רשימת המניות להשקעה כוללת מניות ביוטק המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות הביוטק הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/biotech-300x98.png" alt="מניות ביוטק מומלצות" width="144" height="47" />
+<strong>Package Name:</strong> מניות ביוטק מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+International Stocks
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<strong>Package Name:</strong> מניות בינלאומיות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Dividend Stocks
+רשימת המניות המומלצות כוללת מניות דיבידנד המומלצות למגמת מסחר חיובית (מסחר לונג).
+שירות תחזית מניות הדיבידנד הוא שירות חדש מבית I Know First וכולל תחזית יומית למניות המעניקות דיבידנד תקופתי.
+<ul>
+</ul>
+<img class=" wp-image-7972 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/10/dividend-stocks-.png" alt="dividend-stocks" width="144" height="47" />
+<strong>Package Name:</strong> מניות דיבידנד מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Energy Stocks
+מניות אנרגיה מומלצות
+<p style="direction: rtl;">רשימת ###TOPN### מניות האנרגיה המומלצות כוללת מניות מומלצות למגמת מסחר חיובית(מסחר לונג).</p>
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Energy--300x98.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות אנרגיה מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Healthcare Stocks
+רשימת המניות המומלצות כוללות מניות של חברות רפואה ובריאות המומלצות למגמת מסחר חיובית או שלילית.
+שירות תחזית מניות חברות רפואה ובריאות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright wp-image-38329" src="http://iknowfirst.com/wp-content/uploads/2016/06/Healthcare.png" alt="Healthcare" width="144" height="47" />
+<strong>Package Name:</strong> מניות חברות רפואה ובריאות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Technology Stocks
+רשימת המניות להשקעה כוללת מניות טכנולוגיה המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות הטכנולוגיה הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Tech-Stocks-165.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות טכנולוגיה מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Israeli Stocks
+רשימת המניות להשקעה כוללת מניות ישראליות המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות הישראליות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות ישראליות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Chemical Stocks
+מניות כימיקלים מומלצות
+<p style="direction: rtl;"><span style="line-height: 1.5;">###TOPN### מניות כימיקלים מומלצות.
+</span>רשימת המניות המומלצות כוללת מניות אנרגיה המומלצות למגמת מסחר חיובית (מסחר לונג).
+שירות תחזית המניות אגרסיביות הוא שירות חדש מבית I Know First. השירות כולל איתור מניות מומלצות "המסוכנות" יותר - כלומר, מניות אשר השקעה בהן טומנת בחובה סיכון גבוה יותר מצד אחד אך גם סיכוי לתשואה משמעותית יותר מצד שני.</p>
+<p style="direction: rtl;">המניות המשתייכות למסלול זה הן תנודתיות יותר ומומלצות לסוחרים מנוסים בלבד.</p>
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות כימיקלים מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+
+Top Stocks
+חבילת הטופ ###TOPN### כוללת תחזית עבור ###TOPN### ניות המסומנות למגמת מסחר חיובית TOP ###TOPN### (בעלות עוצמת אות המגמה הגבוהה ביותר לכיוון החיובי) וכן תחזית למדד ה-S&amp;P 500.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/07/top-10-stocks_small.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות Top ###TOPN###
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים High PEG ratio 
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> High PEG ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים Low PEG ratio 
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> Low PEG ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים High P/E ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> High P/E ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים Low P/E ratio 
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> Low P/E ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים High price-to-book ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> High price-to-book ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים Low price-to-book ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> Low price-to-book ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים High price-to-sales ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> High price-to-sales ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים Low price-to-sales ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> Low price-to-sales ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים Low short ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> Low short ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+Fundamental Stocks
+במסגרת חבילה זו בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים שונים. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+
+הקרטוריונים הפונדמנטליים השונים:
+<ul>
+ 	<li><span style="color: #000000;">P/E-price to earnings ratio</span></li>
+ 	<li><span style="color: #000000;">PEG-price/earnings to growth ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-book ratio</span></li>
+ 	<li><span style="color: #000000;">price-to-sales ratio</span></li>
+	<li><span style="color: #000000;">short ratio</span></li>
+</ul>
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר עומדות בקריטריונים הפונדמנטליים הנ"ל. מתוך עולם זה האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/fundamentals-300x98.jpg" alt="מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות אשר עומדות בקריטריונים פונדמנטליים High short ratio
+<strong>Recommended Positions</strong>: Long
+<strong>Subpackage:</strong> High short ratio
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+
+Medicine Stocks
+<p dir="RTL"><span lang="HE">רשימת המניות המומלצות כוללת מניות מומלצות של חברות תרופות המסומנות למגמת מסחר חיובית (מסחר לונג). שירות מניות מומלצות חברות תרופות</span><span dir="LTR" lang="HE"> </span><span lang="HE">הוא שירות חדש מבית </span><span dir="LTR">I Know First </span>  <span dir="LTR">.</span></p>
+<p dir="RTL"><span lang="HE">בכל יום האלגוריתם סורק שורה ארוכה של מניות אשר משתיכות למגזר התרופות. מבין "עולם" המניות הנ"ל, האלגוריתם מסמן את המניות המומלצות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.</span></p>
+<ul>
+</ul>
+<p dir="RTL"><img class=" alignright" src="http://iknowfirst.com/wp-content/uploads/2016/06/medicine-stocks-300x98.png" alt="" width="144" height="47" />
+<strong>Package Name:</strong> מניות חברות רפואה ובריאות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Brazilian Stocks
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג) עבור מניות ברזלאיות הנסחרות בארה"ב.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Brazil-Stock-Forecast-.png" width="144" height="47" />
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות מומלצות בברזיל
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+German Stocks
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות מומלצות בגרמניה
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Stocks Under 10
+בכל יום האלגוריתם עוקב אחר החברות האמריקאיות בעלות שער הנמוך מ-10$.
+ לאחר מכן, האלגוריתם מסמן את מניות החברות שערכן נמוך מ-10$ המומלצות ביותר למגמת מסחר חיובית (מסחר לונג) והמניות המומלצות ביותר למגמת מסחר שלילי (מסחר שורט).
+ <ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Under-10-300x98.png" alt="מניות מומלצות בעלות שער הנמוך מ-10$" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות בעלות שער הנמוך מ-10$
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Stocks Under 5
+בכל יום האלגוריתם עוקב אחר החברות האמריקאיות בעלות שער הנמוך מ-5$.
+לאחר מכן, האלגוריתם מסמן את מניות חברות הנמוך מ-5$ המומלצות ביותר למגמת מסחר חיובית (מסחר לונג) והמניות המומלצות ביותר למגמת מסחר שלילי (מסחר שורט).
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/under-5-1.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות בעלות שער הנמוך מ-5$
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Canadian Stocks
+###TOPN### מניות מומלצות בקנדה.
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<img class="alignright wp-image-36398" src="http://iknowfirst.com/wp-content/uploads/2016/05/canadian-stocks-300x98.png" alt="" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות בקנדה
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Warren Buffett Stocks
+ מניות מומלצות מתיק ההשקעות של וורן באפט.
+בכל יום האלגוריתם סורק את תיק המניות של המשקיע האגדי וורן באפט ומסמן את המניות המומלצות ביותר למגמת מסחר חיובית (מסחר לונג) והמניות המומלצות ביותר למגמת מסחר שלילי (מסחר שורט).
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות מומלצות וורן באפט
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+MLP Companies Stocks
+רשימת המניות המומלצות כוללת מניות מומלצות של חברות MLP (שותפות כללית מוגבלת) מתחום הגז המסומנות למגמת מסחר חיובית (מסחר לונג). שירות מניות ה-MLP הוא שירות חדש מבית I Know First.
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות גז המוגדרות כחברות MLP העוסקות בתעבורה, אחסון ושינוע של גז. האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/mlp-stocks-icon-300x98.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות לחברות MLP מתחום הגז
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Insurance Companies Stocks
+רשימת המניות להשקעה כוללת מניות ממגזר הביטוח המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות ממגזר הביטוח הוא שירות חדש מבית I Know First
+בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך עולם מניות הביטוח. האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<ul>
+</ul>
+<img class="alignright wp-image-36918" src="http://iknowfirst.com/wp-content/uploads/2016/05/Insurance-Companies.png" alt="insurance" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות ממגזר הביטוח
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Basic Industry
+רשימת המניות להשקעה כוללת מניות ממגזר התעשייה הבסיסית המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות ממגזר התעשייה הבסיסית הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/basic-industry-300x98.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות ממגזר התעשייה הבסיסית
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+SP500 Top Stocks
+###TOPN### מניות מומלצות של מדד ה-S&amp;P500.
+רשימת המניות להשקעה כוללת מניות המומלצות להשקעה למגמת מסחר חיובית/שלילית (מסחר לונג/שורט).
+חבילת תחזית המניות המומלצות של מדד ה-S&amp;P500 הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="wp-image-7934 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/10/top-stock.jpg" alt="top-stock" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות של S&amp;P500
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Mega Caps
+בכל יום האלגוריתם עוקב אחר החברות האמריקאיות בעלות שווי השוק הגבוה ביותר (MEGA CAP).לאחר מכן, האלגוריתם מסמן את מניות חברות הענק המומלצות ביותר למגמת מסחר חיובית (מסחר לונג) והמניות המומלצות ביותר למגמת מסחר שלילי (מסחר שורט).
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות מומלצות חברות ענק.
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Hedge Funds
+ מניות מומלצות של קרנות גידור
+<h2 dir="RTL"><span style="color: #000000;">מניות מומלצות של קרנות גידור</span></h2>
+<p dir="RTL"><span lang="HE">רשימת המניות המומלצות כוללת מניות מומלצות של קרנות גידור המסומנות למגמת מסחר חיובית (מסחר לונג). שירות מניות מומלצות קרנות הגידור</span> <span lang="HE">הוא שירות חדש מבית I Know First.</span></p>
+<p dir="RTL"><span lang="HE">בכל יום האלגוריתם סורק שורה ארוכה של מניות אשר נרכשו לאחרונה ע"י קרנות גידור מובילות. מבין יקום מניות הנ"ל, האלגוריתם מסמן את המניות המומלצות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.</span></p>
+<ul>
+</ul>
+<p dir="RTL"><span lang="HE"><img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/hedgefunds.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות קרנות גידור
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+52 Weeks High
+מניות מומלצות שנמצאות במחיר הגבוה מזה 52 שבועות
+<h2><span style="color: #000000;"><strong><span style="line-height: 1.5;">מניות מומלצות אשר נמצאות במחיר הגבוה מזה 52 שבועות</span></strong></span></h2>
+<span style="line-height: 1.5;">###TOPN### מניות מומלצות אשר נמצאות במחיר הגבוה מזה 52 שבועות.
+רשימת המניות המומלצות כוללת מניות אשר נמצאות במחיר הגבוה מזה 52 שבועות המומלצות למגמת מסחר חיובית (מסחר לונג). שירות תחזית המניות אשר נמצאות במחיר הגבוה מזה 52 שבועות הוא שירות חדש מבית I Know First.</span>
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/52-week-high-icon.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות אשר נמצאות במחיר הגבוה מזה 52 שבועות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+52 Weeks Low
+מניות מומלצות שנמצאות במחיר הנמוך מזה 52 שבועות 
+<h2><span style="color: #000000;"><strong><span style="line-height: 1.5;">מניות מומלצות אשר נמצאות במחיר הנמוך מזה 52 שבועות</span></strong></span></h2>
+<span style="line-height: 1.5;">###TOPN### מניות מומלצות אשר נמצאות במחיר הנמוך מזה 52 שבועות.
+רשימת המניות המומלצות כוללת מניות <span style="line-height: 1.5;">אשר נמצאות במחיר הנמוך מזה 52 שבועות</span> המומלצות למגמת מסחר חיובית (מסחר לונג). שירות תחזית המניות <span style="line-height: 1.5;">אשר נמצאות במחיר הנמוך מזה 52 שבועות</span> הוא שירות חדש מבית I Know First.</span>
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/52-Week-Low-Stocks-300x98.png" width="144" height="47" />
+<strong>Package Name:</strong> מניות אשר נמצאות במחיר הנמוך מזה 52 שבועות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Consumer Stocks
+###TOPN### מניות מוצרי צריכה מומלצות.
+רשימת המניות המומלצות כוללות מניות של חברות מוצרי צריכה המומלצות למגמת מסחר חיובית או שלילית.
+שירות תחזית מניות מוצרי צריכה הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות מוצרי צריכה מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Computer Stocks
+###TOPN### מניות מחשבים מומלצות.
+רשימת המניות להשקעה כוללת מניות מחשבים המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).
+שירות תחזית המניות המחשבים הוא שירות חדש מבית I Know First.
+<img class=" wp-image-37897 alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/Computer-Industry-1.png" alt="Computer Industry" width="144" height="47" />
+<strong>Package Name:</strong> מניות מחשבים מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Chinese Stocks
+מניות סיניות מומלצות 
+<h2 id=":vx" class="hP" tabindex="-1"><span dir="rtl">מניות סיניות מומלצות</span>‎</h2>
+###TOPN### מניות סיניות מומלצות.
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות סיניות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Pharma Stocks
+עשר מניות חברות רפואה ובריאות מומלצות.
+רשימת המניות המומלצות כוללות מניות של חברות רפואה ובריאות המומלצות למגמת מסחר חיובית או שלילית.
+שירות תחזית מניות חברות רפואה ובריאות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="wp-image-7888 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/09/Pharma-Stocks-Forecast-1.png" alt="pharma-stocks-forecast-1" width="144" height="47" />
+<strong>Package Name:</strong> מניות פארמה
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Finance Stocks
+###TOPN### מניות מומלצות ממגזר הבנקאות.
+רשימת המניות המומלצות כוללת מניות פיננסיות המומלצות למגמת מסחר חיובית (מסחר לונג). שירות תחזית המניות הפיננסיות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="wp-image-7931 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/10/Bank.png" alt="bank" width="144" height="47" />
+<strong>Package Name:</strong> מניות פיננסיות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Small Cap
+ מניות קטנות ומומלצות
+ רשימת המניות המומלצות כוללת מניות קטנות המומלצות למגמת מסחר חיובית (מסחר לונג). ###TOPN### מניות קטנות ומומלצות.
+שירות תחזית המניות הקטנות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/05/small-cap-stocks-300x98.png" alt="מניות קטנות ומומלצות" width="144" height="47" />
+<strong>Package Name:</strong> מניות קטנות ומומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Conservative Stock Forecast
+ ###TOPN### מניות קונסרבטיביות מומלצות.
+רשימת המניות המומלצות כוללת מניות קונסרבטיביות המומלצות למגמת מסחר חיובית (מסחר לונג).
+שירות תחזית המניות קונסרבטיביות הוא שירות חדש מבית I Know First.
+מהו מסלול המניות הקונסרבטיביות?
+מסלול המניות הקונסרבטיביות כולל מניות אשר מסומנות ע"י האלגוריתם כמומלצות (על בסיס סריקה של 1400 מניות) אך גם כמניות בעלות סטיית תקן נמוכה יותר. כלומר, מניות אשר השקעה בהם טומנת בחובה סיכון נמוך יותר מצד אחד ותשואה סולידית מאידך.
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות קונסרבטיביות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Transportation Stocks
+מניות תחבורה מומלצות 
+<h2 style="direction: ltr; text-align: right;"><span style="color: #000000;"> מניות מומלצות להשקעה</span></h2>
+<p style="direction: ltr; text-align: right;"> חבילה זו כוללת: ###TOPN### מניות תחבורה המומלצות להשקעה</p>
+רשימת המניות המומלצות להשקעה כוללת מניות מומלצות מסקטור התחבורה למגמת מסחר חיובית (מסחר לונג).
+שירות תחזית מניות התחבורה הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="size-full wp-image-7838 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/09/Transportation-Stocks-300x98.png" alt="transportation-stocks-300x98" width="144" height="47" />
+<strong>Package Name:</strong> מניות תחבורה מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Commodities Forecast
+סחורות מומלצות: תחזית הסחורות המומלצות.
+<ul>
+</ul>
+<strong>Package Name:</strong> סחורות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Insider Trades
+רכישות בעלי עניין 
+<p dir="RTL"><strong><span lang="HE">מניות מומלצות אשר בוצעו בהם לאחרונה רכישות פנימיות של בעלי עניין</span></strong><strong><span dir="LTR">. </span></strong><span dir="LTR"> </span><strong><span dir="LTR">Insider Trading</span></strong></p>
+<p dir="RTL"><span lang="HE"> </span><span dir="LTR" lang="HE"> </span><span dir="LTR">
+</span><span lang="HE">רשימת המניות המומלצות כוללת <strong>מניות מומלצות אשר בוצעו בהם רכישות אחרונות של בעלי עניין</strong> למגמת מסחר חיובית (מסחר לונג). שירות תחזית בעלי העניין</span><span dir="LTR"> </span><span lang="HE">הוא שירות חדש מבית</span><span dir="LTR"> I Know First.</span><span lang="HE">.</span></p>
+<p dir="RTL"><span lang="HE">בכל יום האלגוריתם סורק את המניות המומלצות ביותר מתוך יקום של מניות אשר בוצעו בהם לאחרונה רכישות של בעלי עניין. האלגוריתם מסמן את ההזדמנויות הטובות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+<ul>
+</ul>
+<strong>Package Name:</strong> רכישות בעלי עניין
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Indices Forecast
+מדדים העולמיים המומלצים להשקעה.
+רשימת המדדים המומלצים כוללת מדדים עולמיים המסומנים למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<strong>Package Name:</strong> תחזיות מדדים
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+Volatility Forecast
+החבילה כוללת מדדי תנודתיות על המדדים העיקרים כגון מדד ה-VIX. המדדים מניבים תשואה עודפת בתקופה תנודתית בשווקים.
+<ul>
+</ul>
+<strong>Package Name:</strong> תחזית VIX ומסחר בתנודתיות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+ETFs Forecast
+###TOPN### תעודות סל מומלצות.
+רשימת המניות להשקעה כוללת מניות המומלצות למגמת מסחר חיובית (מסחר לונג).
+<ul>
+</ul>
+<strong>Package Name:</strong> תעודות סל
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+
+
+
+
+Stock Forecast & S&P500 Forecast
+###TOPN### מניות מומלצות של מדד ה-S&P500
+רשימת המניות להשקעה כוללת מניות המומלצות להשקעה למגמת מסחר חיובית/שלילית (מסחר לונג/שורט).
+חבילת תחזית המניות המומלצות של מדד ה-S&P500 הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/07/top-10-stocks_small.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות של S&P500
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+Options Forecast
+###TOPN### <span lang="HE">רשימת האופציות המומלצות כוללת מניות של חברות גדולות, אשר ניתן לסחור באופציות על מניותיהן. מתוך רשימה זו אלגוריתם מסמן את האופציות המומלצות למגמת מסחר חיובית (מסחר לונג). </span>
+
+בכל יום האלגוריתם סורק שורה ארוכה של מניות גדולות, מניות אשר ניתן לסחור באופציות בעבורם. מבין "עולם" המניות הנ"ל, האלגוריתם מסמן את המניות המומלצות ביותר, ומדרגם על בסיס סטיית המחיר שהוא מזהה.
+שירות תחזית המניות הטכנולוגיה הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="wp-image-7958 alignright" src="http://iknowfirst.co.il/wp-content/uploads/2016/10/Options-.png" alt="options" width="144" height="47" /></a>
+<strong>Package Name:</strong> אופציות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+Automotive Forecast
+###TOPN### מניות מומלצות של מדד ה-S&P500
+רשימת המניות להשקעה כוללת מניות המומלצות להשקעה למגמת מסחר חיובית/שלילית (מסחר לונג/שורט).
+חבילת תחזית המניות המומלצות של מדד ה-S&P500 הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<img class="alignright" src="http://iknowfirst.com/wp-content/uploads/2016/07/top-10-stocks_small.jpg" width="144" height="47" />
+<strong>Package Name:</strong> מניות מומלצות של S&P500
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+Big Tech Stocks
+מניות חברות טכנולוגיה גדולות מומלצות
+רשימת המניות להשקעה כוללת מניות חברות טכנולוגיה גדולות המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).שירות תחזית המניות הטכנולוגיה הגדולות המומלצות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות חברות טכנולוגיה גדולות מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%
+
+
+Real Estate Stocks
+מניות חברות נדל"ן מומלצות
+רשימת המניות להשקעה כוללת מניות חברות נדל"ן המומלצות למגמת מסחר חיובית/שלילית (מסחר שורט/לונג).שירות תחזית חברות נדל"ן המומלצות הוא שירות חדש מבית I Know First.
+<ul>
+</ul>
+<strong>Package Name:</strong> מניות חברות נדל"ן מומלצות
+<strong>Recommended Positions</strong>: Long
+<strong>Forecast Length:</strong> 3 Months (06/16/16 - 09/16/16)
+<strong>I Know First Average:</strong> 9.15%

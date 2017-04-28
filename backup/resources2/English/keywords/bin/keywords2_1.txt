@@ -1,0 +1,12 @@
+Group,Category,Subpackage,Keyword,Recent,Priority
+ANY,ANY,ANY, Based on Artificial Intelligence
+ANY,ANY,ANY, Based on Machine Learning
+ANY,ANY,ANY, Based on Gentic Algorithms
+ANY,ANY,ANY, Based on a Self-learning Algorithm
+ANY,ANY,ANY, Based on Algo Trading
+ANY,ANY,ANY, Based on Algorithmic Trading
+ANY,ANY,ANY, Based on Data Mining
+ANY,ANY,ANY, Based on Predictive Statistics
+ANY,ANY,ANY, Based on Pattern Recognition
+ANY,ANY,ANY, Based on Big Data
+ANY,ANY,ANY, Based on Deep Learning

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<directory>
+		<defaultDirectory><![CDATA[C:\Users\Daniel\OneDrive\I Know First\forecast automation\csvtables]]></defaultDirectory>
+	</directory>
+	
+	<language code="eng">
+		<domain><![CDATA[http://iknowfirst.com]]></domain>
+		<timeFrame>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[3 Days]]></item>
+				<item><![CDATA[7 Days]]></item>
+				<item><![CDATA[14 Days]]></item>
+				<item><![CDATA[1 Month]]></item>
+				<item><![CDATA[3 Months]]></item>
+				<item><![CDATA[1 Year]]></item>
+			</items>
+		</timeFrame>
+
+		<positionType>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[Long]]></item>
+				<item><![CDATA[Short]]></item>
+				<item><![CDATA[Long & Short]]></item>
+				<item><![CDATA[Commodities]]></item>
+				<item><![CDATA[Currencies]]></item>
+				<item><![CDATA[XAU]]></item>
+			</items>
+		</positionType>
+		<subpackages>
+			<subpackage>
+				<packageName><![CDATA[Fundamental]]></packageName>
+				<items>
+					<item><![CDATA[]]></item>
+					<item><![CDATA[Low P/E Stocks]]></item>
+					<item><![CDATA[High P/E Stocks]]></item>
+					<item><![CDATA[Low PEG Stocks]]></item>
+					<item><![CDATA[High PEG Stocks]]></item>
+					<item><![CDATA[Low price-to-book ratio Stocks]]></item>
+					<item><![CDATA[High price-to-book ratio Stocks]]></item>
+					<item><![CDATA[Low price-to-sales ratio Stocks]]></item>
+					<item><![CDATA[High price-to-sales ratio Stocks]]></item>
+					<item><![CDATA[Low High Short Ratio Stocks]]></item>
+					<item><![CDATA[High Short Ratio Stocks]]></item>
+				</items>
+			</subpackage>
+			<subpackage>
+				<packageName><![CDATA[Gold & Commodity Forecast]]></packageName>
+				<items>
+					<item><![CDATA[]]></item>
+					<item><![CDATA[Gold]]></item>
+					<item><![CDATA[Commodities]]></item>
+				</items>
+			</subpackage>
+		</subpackages>
+	</language>
+	
+	<language code="hew">
+		<domain><![CDATA[http://iknowfirst.co.il]]></domain>
+		<timeFrame>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[3 Days(hew)]]></item>
+				<item><![CDATA[7 Days(hew)]]></item>
+				<item><![CDATA[14 Days(hew)]]></item>
+				<item><![CDATA[1 Month(hew)]]></item>
+				<item><![CDATA[3 Months(hew)]]></item>
+				<item><![CDATA[1 Year(hew)]]></item>
+			</items>
+		</timeFrame>
+
+		<positionType>
+			<items>
+				<item><![CDATA[-]]></item>
+				<item><![CDATA[ארוך]]></item>
+				<item><![CDATA[קצר]]></item>
+				<item><![CDATA[ארוך & קצר]]></item>
+				<item><![CDATA[סחורות]]></item>
+				<item><![CDATA[מטבעות]]></item>
+				<item><![CDATA[XAU]]></item>
+			</items>
+		</positionType>
+
+		<subpackages>
+			<subpackage>
+				<packageName><![CDATA[Fundamental]]></packageName>
+				<items>
+					<item><![CDATA[]]></item>
+					<item><![CDATA[Low P/E Stocks]]></item>
+					<item><![CDATA[High P/E Stocks]]></item>
+					<item><![CDATA[Low PEG Stocks]]></item>
+					<item><![CDATA[High PEG Stocks]]></item>
+					<item><![CDATA[Low price-to-book ratio Stocks]]></item>
+					<item><![CDATA[High price-to-book ratio Stocks]]></item>
+					<item><![CDATA[Low price-to-sales ratio Stocks]]></item>
+					<item><![CDATA[High price-to-sales ratio Stocks]]></item>
+					<item><![CDATA[Low High Short Ratio Stocks]]></item>
+					<item><![CDATA[High Short Ratio Stocks]]></item>
+				</items>
+			</subpackage>
+			<subpackage>
+				<packageName><![CDATA[Gold & Commodity Forecast]]></packageName>
+				<items>
+					<item><![CDATA[]]></item>
+					<item><![CDATA[Gold]]></item>
+					<item><![CDATA[Commodities]]></item>
+				</items>
+			</subpackage>
+		</subpackages>
+	</language>
+</settings>

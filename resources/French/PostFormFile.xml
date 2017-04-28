@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1###:Un retour de ###CVSTABLE1-RANK1-RET###% en ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="http://lpage.iknowfirst.com/fr" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package: </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<$iknowfirstAverage><strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###%<br></$iknowfirstAverage>
+			<a href="###POSTLINK###"><h2>Lire L'Article</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType><![CDATA[Long et Court-terme]]></positionType>
+		<packageType>ANY</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1###:Un retour de ###CVSTABLE1-RANK1-RET###% en ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée:: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="http://lpage.iknowfirst.com/fr" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			
+			<$bottomText>###BOTTOMTEXT###</$bottomText>
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="###POSTLINK###"><h2>Lire l'Article</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	<item>
+		<positionType>ANY</positionType>
+		<packageType>Devises</packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1###:Un retour de ###CVSTABLE1-IKFAVG###% de Hit Ratio en ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="http://lpage.iknowfirst.com/fr" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			###BOTTOMTEXT###
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Hit Ratio: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="###POSTLINK###"><h2>Lire l'Article</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+		<item>
+		<positionType><![CDATA[Long & Court-terme]]></positionType>
+		<packageType><![CDATA[Matieres Premieres]]></packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1###:Un retour de ###CVSTABLE1-RANK1-RET###% de Hit Ratio en ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="http://lpage.iknowfirst.com/fr" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			###BOTTOMTEXT###
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<$recommendedPosition><strong>Position recommandée: </strong>###RECOMMENDEDPOSITIONS###<br></$recommendedPosition>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>I Know First Average: </strong>###CVSTABLE1-IKFAVG###% (Long) & ###CVSTABLE2-IKFAVG###% (Short)<br>
+			<a href="###POSTLINK###"><h2>Lire l'Article</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	
+	<item>
+		<positionType>ANY</positionType>
+		<packageType><![CDATA[Cours De L’or]]></packageType>
+		<subpackage>ANY</subpackage>
+		<title><![CDATA[###KEYWORD1###:Un retour de ###CVSTABLE1-RANK1-RET###% en ###TIMEFRAME###]]></title>
+		<mainText><![CDATA[<h2>###KEYWORD1###</h2>
+			<$packageExplain><p style="text-align: justify;">###PACKAGEEXPLAIN###</p></$packageExplain>
+			<$ulList><ul style="color: #0a0a0a;">
+			###ULLIST###
+			</ul></$ulList>
+			<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="http://lpage.iknowfirst.com/fr" rel="attachment wp-att-35019">###MAINIMAGE###</a>
+			###BOTTOMTEXT###
+			]]>
+		</mainText>
+		
+		<excerptText><![CDATA[<$packageNameImage>###PACKAGENAMEIMAGE###</$packageNameImage>
+			<$packageName2><strong>Nom du Package : </strong>###PACKAGENAME2###<br></$packageName2>
+			<strong>Durée de la Prévision: </strong>###TIMEFRAME### (###FORECASTDATE### - ###TARGETDATE###)<br>
+			<strong>Moyenne I Know First: </strong>###CVSTABLE1-IKFAVG###%<br>
+			<a href="###POSTLINK###"><h2>Lire l'Article</h2></a>
+			<a href="###POSTLINK###" rel="attachment wp-att-35019">###MAINIMAGE###</a>]]>
+		</excerptText>
+			
+	</item>
+	
+	
+</items>
