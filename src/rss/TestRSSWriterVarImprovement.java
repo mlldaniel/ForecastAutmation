@@ -184,11 +184,11 @@ public class TestRSSWriterVarImprovement {
         packageHeader.setPackageName2(replaceAllSharpVarString(packageHeader.getPackageName2(), item));
         packageHeader.setPackageExplain(replaceAllSharpVarString(packageHeader.getPackageExplain(), item));
         packageHeader.setUlList(ulList);
-        
+
         return packageHeader;
         //replaceAllSharpVarString(packageHeader.getPackageExplain(), item)
     }
-    
+
     private static String replaceAllSharpVarString(String inputText, Item item) {
         String outputText = "";
         CVSTable cvsTable1 = null;
@@ -301,16 +301,15 @@ public class TestRSSWriterVarImprovement {
             csvRowDataList.add(cvsTable1.getHighest(1));
             csvRowDataList.add(cvsTable1.getHighest(2));
             csvRowDataList.add(cvsTable1.getHighest(3));
-            
+
             csvRowDataList.add(cvsTable2.getHighest(1));
             csvRowDataList.add(cvsTable2.getHighest(2));
             csvRowDataList.add(cvsTable2.getHighest(3));
-            csvRowDataList = csvRowDataList.stream().sorted((i1,i2)->Double.compare(i2.getReturnz(), i1.getReturnz()))
+            csvRowDataList = csvRowDataList.stream().sorted((i1, i2) -> Double.compare(i2.getReturnz(), i1.getReturnz()))
                     .collect(Collectors.toList());
             //csvTableRowDataList.add(cvsTable1.getCvsTable());
             //csvTableRowDataList.add(cvsTable2);
-            
-            
+
             outputText = outputText
                     .replace("###CVSTABLE1-RANK1-SYM###", "<em>" + cvsTable1.getHighest(1).getSymbol() + "</em>")
                     .replace("###CVSTABLE1-RANK2-SYM###", "<em>" + cvsTable1.getHighest(2).getSymbol() + "</em>")
@@ -334,7 +333,6 @@ public class TestRSSWriterVarImprovement {
                     .replace("###CVSTABLE2-PREMIUM###", String.format("%.2f", cvsTable2.getIKnowFirstAvg().getReturnz() - cvsTable2.getSNP500().getReturnz()))
                     .replace("###CVSTABLE2-COUNTACCURATE###", Integer.toString(cvsTable2.countAccurate()))
                     .replace("###CVSTABLE2-COUNTTOTALROW###", Integer.toString(cvsTable2.countTotalRow()))
-                    
                     .replace("###CVSTABLES-RANK1-SYM###", "<em>" + csvRowDataList.get(0).getSymbol() + "</em>")
                     .replace("###CVSTABLES-RANK2-SYM###", "<em>" + csvRowDataList.get(1).getSymbol() + "</em>")
                     .replace("###CVSTABLES-RANK3-SYM###", "<em>" + csvRowDataList.get(2).getSymbol() + "</em>")
@@ -486,7 +484,6 @@ public class TestRSSWriterVarImprovement {
                 + "src=\"" + domain + "wp-content/uploads/" + year + "/" + month + "/" + fileName.substring(0, fileName.lastIndexOf(".")) + "." + preferenceSetting.getImageExt() + "\" "
                 + "alt=\"" + item.getKeyword1() + "\" width=\"" + preferenceSetting.getMainImageWidth() + "\" height=\"" + preferenceSetting.getMainImageHeight() + "\" />";
 
-        
         outputText = inputText.replace("###KEYWORD1###", item.getKeyword1())
                 .replace("###KEYWORD2###", item.getKeyword2())
                 .replace("###PACKAGEEXPLAIN###", packageHeader.getPackageExplain())
@@ -566,18 +563,18 @@ public class TestRSSWriterVarImprovement {
 
         return outputText;
     }
-    private static String returnToLinkFormat(Double input){
-        
+
+    private static String returnToLinkFormat(Double input) {
+
         String output = String.format("%.2f", input);
         return output.replace(".", " ");
     }
+
     public static String replaceAllSharpVarLink(Item item, String format, String title) {
         String outputText = "";
         CVSTable cvsTable1 = null;
         CVSTable cvsTable2 = null;
-        
 
-        
         int topN = Integer.parseInt(item.getTopN());
         outputText = format.replace("###KEYWORD1###", item.getKeyword1())
                 .replace("###KEYWORD2###", item.getKeyword2())
@@ -595,7 +592,7 @@ public class TestRSSWriterVarImprovement {
                 .replace("###TOPN###", item.getTopN())
                 .replace("###TOPN2###", Integer.toString(topN * 2))
                 .replace("###PACKAGENAME###", item.getPackageContent())
-                .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat( item.getCvsTable().getHighest(1).getReturnz()));
+                .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat(item.getCvsTable().getHighest(1).getReturnz()));
         //Long & Short
         if (item.getPositionType().equalsIgnoreCase("Long & Short")) {
             cvsTable1 = item.getCvsTable();
@@ -604,23 +601,23 @@ public class TestRSSWriterVarImprovement {
                     .replace("###CVSTABLE1-RANK1-SYM###", "<em>" + cvsTable1.getHighest(1).getSymbol() + "</em>")
                     .replace("###CVSTABLE1-RANK2-SYM###", "<em>" + cvsTable1.getHighest(2).getSymbol() + "</em>")
                     .replace("###CVSTABLE1-RANK3-SYM###", "<em>" + cvsTable1.getHighest(3).getSymbol() + "</em>")
-                    .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat( cvsTable1.getHighest(1).getReturnz()))
-                    .replace("###CVSTABLE1-RANK2-RET###", returnToLinkFormat( cvsTable1.getHighest(2).getReturnz()))
-                    .replace("###CVSTABLE1-RANK3-RET###", returnToLinkFormat( cvsTable1.getHighest(3).getReturnz()))
-                    .replace("###CVSTABLE1-IKFAVG###", returnToLinkFormat( cvsTable1.getIKnowFirstAvg().getReturnz()))
-                    .replace("###CVSTABLE1-S&P500###", returnToLinkFormat( cvsTable1.getSNP500().getReturnz()))
-                    .replace("###CVSTABLE1-PREMIUM###", returnToLinkFormat( cvsTable1.getIKnowFirstAvg().getReturnz() - cvsTable1.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat(cvsTable1.getHighest(1).getReturnz()))
+                    .replace("###CVSTABLE1-RANK2-RET###", returnToLinkFormat(cvsTable1.getHighest(2).getReturnz()))
+                    .replace("###CVSTABLE1-RANK3-RET###", returnToLinkFormat(cvsTable1.getHighest(3).getReturnz()))
+                    .replace("###CVSTABLE1-IKFAVG###", returnToLinkFormat(cvsTable1.getIKnowFirstAvg().getReturnz()))
+                    .replace("###CVSTABLE1-S&P500###", returnToLinkFormat(cvsTable1.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE1-PREMIUM###", returnToLinkFormat(cvsTable1.getIKnowFirstAvg().getReturnz() - cvsTable1.getSNP500().getReturnz()))
                     .replace("###CVSTABLE1-COUNTACCURATE###", Integer.toString(cvsTable1.countAccurate()))
                     .replace("###CVSTABLE1-COUNTTOTALROW###", Integer.toString(cvsTable1.countTotalRow()))
                     .replace("###CVSTABLE2-RANK1-SYM###", "<em>" + cvsTable2.getHighest(1).getSymbol() + "</em>")
                     .replace("###CVSTABLE2-RANK2-SYM###", "<em>" + cvsTable2.getHighest(2).getSymbol() + "</em>")
                     .replace("###CVSTABLE2-RANK3-SYM###", "<em>" + cvsTable2.getHighest(3).getSymbol() + "</em>")
-                    .replace("###CVSTABLE2-RANK1-RET###", returnToLinkFormat( cvsTable2.getHighest(1).getReturnz()))
-                    .replace("###CVSTABLE2-RANK2-RET###", returnToLinkFormat( cvsTable2.getHighest(2).getReturnz()))
-                    .replace("###CVSTABLE2-RANK3-RET###", returnToLinkFormat( cvsTable2.getHighest(3).getReturnz()))
-                    .replace("###CVSTABLE2-IKFAVG###", returnToLinkFormat( cvsTable2.getIKnowFirstAvg().getReturnz()))
-                    .replace("###CVSTABLE2-S&P500###", returnToLinkFormat( cvsTable2.getSNP500().getReturnz()))
-                    .replace("###CVSTABLE2-PREMIUM###", returnToLinkFormat( cvsTable2.getIKnowFirstAvg().getReturnz() - cvsTable2.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE2-RANK1-RET###", returnToLinkFormat(cvsTable2.getHighest(1).getReturnz()))
+                    .replace("###CVSTABLE2-RANK2-RET###", returnToLinkFormat(cvsTable2.getHighest(2).getReturnz()))
+                    .replace("###CVSTABLE2-RANK3-RET###", returnToLinkFormat(cvsTable2.getHighest(3).getReturnz()))
+                    .replace("###CVSTABLE2-IKFAVG###", returnToLinkFormat(cvsTable2.getIKnowFirstAvg().getReturnz()))
+                    .replace("###CVSTABLE2-S&P500###", returnToLinkFormat(cvsTable2.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE2-PREMIUM###", returnToLinkFormat(cvsTable2.getIKnowFirstAvg().getReturnz() - cvsTable2.getSNP500().getReturnz()))
                     .replace("###CVSTABLE2-COUNTACCURATE###", Integer.toString(cvsTable2.countAccurate()))
                     .replace("###CVSTABLE2-COUNTTOTALROW###", Integer.toString(cvsTable2.countTotalRow()));
         } else {
@@ -629,12 +626,12 @@ public class TestRSSWriterVarImprovement {
                     .replace("###CVSTABLE1-RANK1-SYM###", "<em>" + cvsTable1.getHighest(1).getSymbol() + "</em>")
                     .replace("###CVSTABLE1-RANK2-SYM###", "<em>" + cvsTable1.getHighest(2).getSymbol() + "</em>")
                     .replace("###CVSTABLE1-RANK3-SYM###", "<em>" + cvsTable1.getHighest(3).getSymbol() + "</em>")
-                    .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat( cvsTable1.getHighest(1).getReturnz()))
-                    .replace("###CVSTABLE1-RANK2-RET###", returnToLinkFormat( cvsTable1.getHighest(2).getReturnz()))
-                    .replace("###CVSTABLE1-RANK3-RET###", returnToLinkFormat( cvsTable1.getHighest(3).getReturnz()))
-                    .replace("###CVSTABLE1-IKFAVG###", returnToLinkFormat( cvsTable1.getIKnowFirstAvg().getReturnz()))
-                    .replace("###CVSTABLE1-S&P500###", returnToLinkFormat( cvsTable1.getSNP500().getReturnz()))
-                    .replace("###CVSTABLE1-PREMIUM###", returnToLinkFormat( cvsTable1.getIKnowFirstAvg().getReturnz() - cvsTable1.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE1-RANK1-RET###", returnToLinkFormat(cvsTable1.getHighest(1).getReturnz()))
+                    .replace("###CVSTABLE1-RANK2-RET###", returnToLinkFormat(cvsTable1.getHighest(2).getReturnz()))
+                    .replace("###CVSTABLE1-RANK3-RET###", returnToLinkFormat(cvsTable1.getHighest(3).getReturnz()))
+                    .replace("###CVSTABLE1-IKFAVG###", returnToLinkFormat(cvsTable1.getIKnowFirstAvg().getReturnz()))
+                    .replace("###CVSTABLE1-S&P500###", returnToLinkFormat(cvsTable1.getSNP500().getReturnz()))
+                    .replace("###CVSTABLE1-PREMIUM###", returnToLinkFormat(cvsTable1.getIKnowFirstAvg().getReturnz() - cvsTable1.getSNP500().getReturnz()))
                     .replace("###CVSTABLE1-COUNTACCURATE###", Integer.toString(cvsTable1.countAccurate()))
                     .replace("###CVSTABLE1-COUNTTOTALROW###", Integer.toString(cvsTable1.countTotalRow()));
         }
@@ -649,27 +646,26 @@ public class TestRSSWriterVarImprovement {
                 break;
         }
         //replace all - to space
-        if(outputText.contains("-")){
+        if (outputText.contains("-")) {
             outputText = outputText.replace("-", " ");
         }
         if (!title.isEmpty()) {
-            title = title.replaceAll("([\\d])[\\.]([\\d])","$1 $2");
+            title = title.replaceAll("([\\d])[\\.]([\\d])", "$1 $2");
             outputText = outputText.replace("###POSTTITLE###", title);
         }
         //replace all Percent stuff
-        outputText = outputText.replaceAll("([\\d])[\\.]([\\d])","$1 $2");
+        outputText = outputText.replaceAll("([\\d])[\\.]([\\d])", "$1 $2");
         //turn all escape code to special Char
         outputText = StringEscapeUtils.unescapeHtml4(outputText);
         //Get rid of all accents instead of deleting it
         outputText = Normalizer.normalize(outputText, Normalizer.Form.NFD).replaceAll("[^\\p{ASCII}]", "");
         //Replace all special Character
-        outputText = outputText.replaceAll("[^(\\w|\\s)]","");
+        outputText = outputText.replaceAll("[^(\\w|\\s)]", "");
         //Replace all space to dash
         outputText = outputText.replaceAll("\\s", "-");
         //More than one dash to one dash
-        outputText = outputText.replaceAll("-{2,}","-");
-        
-        
+        outputText = outputText.replaceAll("-{2,}", "-");
+
         outputText = outputText.toLowerCase();
 //        outputText = outputText.replace(" ", "-")
 //                .replace("\\.", "-")
@@ -682,14 +678,12 @@ public class TestRSSWriterVarImprovement {
 //                .replace("---", "-")
 //                .replace("----", "-");
 
-
 //        titleLinkFriendly = title.replace('.','-').replaceAll(" ","-")
 //                    .replace(":","-").replace("%","-").replaceAll("--","-").replace("+","").toLowerCase();
 //                titleLinkFriendly = titleLinkFriendly.replaceAll(" ", "");
 //        outputText = title.replaceAll('.','-')
 //                .replaceAll(" ","-")
 //                .
-
         return (outputText);
     }
 
@@ -725,20 +719,25 @@ public class TestRSSWriterVarImprovement {
         RSSEntry entry = null;
 
         int timeOffset = 0;
-        itemList = itemList.stream().sorted((s1,s2)->Double.compare(s1.getTop3(tab.getPositionTypeDictionary()).get(0).getReturnz(),
-                                                         s2.getTop3(tab.getPositionTypeDictionary()).get(0).getReturnz()))
-                        .collect(Collectors.toList());
+        itemList = itemList.stream().sorted((s1, s2) -> Double.compare(s1.getTop3(tab.getPositionTypeDictionary()).get(0).getReturnz(),
+                s2.getTop3(tab.getPositionTypeDictionary()).get(0).getReturnz()))
+                .collect(Collectors.toList());
         tab.itemList = itemList;
-        
+
         List<ForecastData> toForecastDBList = new ArrayList();
-        
+
         for (Item item : itemList) {
-            
+
             //Pre stage - prepare postForm, 
             PostFormList pfList = tab.getPostFormList().getForm(item.getPositionType(), item.getPackageContent(), item.getSubpackage());
             PostForm pf = pfList.pickOne();
             PackageHeader tempPackageHeader = null;
-            tempPackageHeader = packageHeaderList.getPackageHeaderWhereNameIs(item.getPackageContent(), item.getSubpackage());
+            try {
+                tempPackageHeader = (PackageHeader)packageHeaderList
+                                        .getPackageHeaderWhereNameIs(item.getPackageContent(), item.getSubpackage())
+                                        .clone();
+            } catch (CloneNotSupportedException c) {
+            }
 
             //Generate all the Text herefirst : title/COntent/ Excerpt /Link
             String contentFormat = generateContentEncoded(pf, tempPackageHeader, item);
@@ -750,7 +749,7 @@ public class TestRSSWriterVarImprovement {
             VarText vartext = replaceAllSharpVarMaster(item, tempPackageHeader, titleFormat, contentFormat, excerptFormat, linkFormat, feed.getHeader().getLink());
             tempPackageHeader = vartext.getPackageHeader();
             item.setModifiedPackageHeader(tempPackageHeader);
-            
+
             String title = vartext.getTitle();
             String stringContentEncoded = vartext.getContent();
             String stringExcerptEncoded = vartext.getExcerpt();
@@ -910,7 +909,8 @@ class VarText {
     private String excerpt;
     private String link;
     private PackageHeader packageHeader;
-    VarText(String title, String content, String excerpt, String link,PackageHeader packageHeader) {
+
+    VarText(String title, String content, String excerpt, String link, PackageHeader packageHeader) {
         this.title = title;
         this.content = content;
         this.excerpt = excerpt;

@@ -13,27 +13,32 @@ import java.util.List;
  *
  * @author Daniel
  */
-public class PackageHeader{
+public class PackageHeader implements Cloneable {
+
     private String packageName;
     private String packageExplain;
     private List<String> ulList;
     private String packageNameImage;
-    
+
     private boolean recommendedPositions;
     private String packageName2;
     private String subpackage;
     //String 
-    
-    PackageHeader(){
+
+    PackageHeader() {
         packageName = "";
         packageExplain = "";
         ulList = new ArrayList();
         packageNameImage = "";
         recommendedPositions = false;
         packageName2 = "";
-        subpackage="";
+        subpackage = "";
     }
-    
+
+    public Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+
     /**
      * @return the packageName
      */
@@ -75,10 +80,11 @@ public class PackageHeader{
     public void setUlList(List<String> ulList) {
         this.ulList = ulList;
     }
-    
-    public void addUlList(String li){
-        if(this.ulList==null)
+
+    public void addUlList(String li) {
+        if (this.ulList == null) {
             this.ulList = new ArrayList();
+        }
         this.ulList.add(li);
     }
 
